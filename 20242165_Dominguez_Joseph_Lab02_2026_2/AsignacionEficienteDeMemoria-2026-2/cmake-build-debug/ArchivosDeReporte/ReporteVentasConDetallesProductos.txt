@@ -1,0 +1,1571 @@
+                                               PackMart S.A.
+                                          REGISTRO DE VENTAS
+============================================================================================================================================
+   CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+1 ) V00001                             C0277                    2026-07-07                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0102    Maiz Dulce Valle Tipo 15         UNIDAD        CONSERVAS      1         4           31           40            0%
+P0074    Gaseosa Kantu Tipo 24            PAQ20         BEBIDAS       20         8           29           43           13%
+============================================================================================================================================
+COSTO TOTAL:            60.00
+PRECIO TOTAL:           83.00
+GANANCIA TOTAL:         23.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+2 ) V00002                             C0407                    2026-06-09                         TIENDA              
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0168    Alimento Perro Central Tipo 23   UNIDAD        MASCOTAS       1         2           10           13            0%
+P0145    Azucar Misti Tipo 23             CAJA12        ABARROTES     12         8           15           17           13%
+P0158    Durazno Norte Tipo 06            PAQ50         CONSERVAS     50         2           19           22           26%
+P0154    Bebida Energetica Inti Tipo 02   PAQ50         BEBIDAS       50         7           11           13           26%
+P0181    Galletas Andes Tipo 14           CAJA24        SNACKS        24         4           22           29           19%
+P0041    Lenteja Amazonia Tipo 11         UNIDAD        ABARROTES      1         1           47           70            0%
+============================================================================================================================================
+COSTO TOTAL:           124.00
+PRECIO TOTAL:          164.00
+GANANCIA TOTAL:         40.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+3 ) V00003                             C0361                    2026-04-13                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0013    Barra Energetica Costa Tipo 18   CAJA24        SNACKS        24         7           33           48           19%
+P0099    Suavizante Inti Tipo 14          UNIDAD        LIMPIEZA       1         6           36           48            0%
+P0181    Galletas Andes Tipo 14           CAJA24        SNACKS        24         3           22           29           19%
+P0066    Jugo Sol Tipo 11                 UNIDAD        BEBIDAS        1        18           41           57            0%
+P0136    Alimento Gato Valle Tipo 01      UNIDAD        MASCOTAS       1        13           37           43            0%
+P0036    Jabon Norte Tipo 24              UNIDAD        HIGIENE        1         3           14           20            0%
+P0106    Te Inti Tipo 11                  UNIDAD        BEBIDAS        1         3            9           14            0%
+P0151    Marcador Costa Tipo 17           UNIDAD        OFICINA        1        12           12           17            0%
+P0043    Suavizante Sol Tipo 06           CAJA12        LIMPIEZA      12         3           31           37           13%
+============================================================================================================================================
+COSTO TOTAL:           235.00
+PRECIO TOTAL:          313.00
+GANANCIA TOTAL:         78.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+4 ) V00004                             C0522                    2026-06-13                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0007    Cuaderno Kantu Tipo 18           UNIDAD        OFICINA        1         8           21           26            0%
+P0184    Snack Canino Pacifico Tipo 14    CAJA48        MASCOTAS      48         1            6            8           23%
+P0080    Alimento Perro Valle Tipo 10     UNIDAD        MASCOTAS       1         1           17           21            0%
+P0199    Cinta Adhesiva Kantu Tipo 15     PAQ10         OFICINA       10         6           38           48            8%
+P0199    Cinta Adhesiva Kantu Tipo 15     PAQ50         OFICINA       50         5           38           48           26%
+============================================================================================================================================
+COSTO TOTAL:           120.00
+PRECIO TOTAL:          151.00
+GANANCIA TOTAL:         31.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+5 ) V00005                             C0101                    2026-05-05                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0017    Sal Central Tipo 03              PAQ20         ABARROTES     20         4            3            3           13%
+P0192    Alimento Perro Costa Tipo 13     UNIDAD        MASCOTAS       1        14            7            9            0%
+P0041    Lenteja Amazonia Tipo 11         UNIDAD        ABARROTES      1        10           47           70            0%
+============================================================================================================================================
+COSTO TOTAL:            57.00
+PRECIO TOTAL:           82.00
+GANANCIA TOTAL:         25.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+6 ) V00006                             C0320                    2026-06-20                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0208    Alimento Perro Valle Tipo 22     UNIDAD        MASCOTAS       1         8           33           38            0%
+P0116    Pasta Dental Misti Tipo 02       UNIDAD        HIGIENE        1         6           36           50            0%
+P0124    Papel Higienico Kantu Tipo 02    PAQ25         HIGIENE       25         3           34           50           21%
+P0030    Durazno Sierra Tipo 08           PAQ10         CONSERVAS     10         5           27           35            8%
+P0042    Bebida Isotonica Kantu Tipo 04   PAQ50         BEBIDAS       50         8           22           32           26%
+============================================================================================================================================
+COSTO TOTAL:           152.00
+PRECIO TOTAL:          205.00
+GANANCIA TOTAL:         53.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+7 ) V00007                             C0287                    2026-07-20                         TIENDA              
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0176    Alimento Perro Andes Tipo 24     UNIDAD        MASCOTAS       1         9           39           51            0%
+P0030    Durazno Sierra Tipo 08           PAQ10         CONSERVAS     10         8           27           35            8%
+============================================================================================================================================
+COSTO TOTAL:            66.00
+PRECIO TOTAL:           86.00
+GANANCIA TOTAL:         20.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+8 ) V00008                             C0363                    2026-08-19                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0038    Atun Costa Tipo 16               UNIDAD        CONSERVAS      1         4            6            8            0%
+============================================================================================================================================
+COSTO TOTAL:             6.00
+PRECIO TOTAL:            8.00
+GANANCIA TOTAL:          2.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+9 ) V00009                             C0310                    2026-07-03                         TIENDA              
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0179    Desinfectante Amazonia Tipo 17   UNIDAD        LIMPIEZA       1         8            1            2            0%
+P0048    Alimento Gato Pacifico Tipo 10   CAJA24        MASCOTAS      24         1           22           33           19%
+P0099    Suavizante Inti Tipo 14          UNIDAD        LIMPIEZA       1         9           36           48            0%
+============================================================================================================================================
+COSTO TOTAL:            59.00
+PRECIO TOTAL:           83.00
+GANANCIA TOTAL:         24.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+10) V00010                             C0252                    2026-08-28                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0055    Lapicero Sierra Tipo 21          UNIDAD        OFICINA        1        15           42           56            0%
+P0126    Atun Sol Tipo 04                 UNIDAD        CONSERVAS      1        10           23           36            0%
+============================================================================================================================================
+COSTO TOTAL:            65.00
+PRECIO TOTAL:           92.00
+GANANCIA TOTAL:         27.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+11) V00011                             C0459                    2026-02-12                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0104    Shampoo Mascota Costa Tipo 12    UNIDAD        MASCOTAS       1         5           30           36            0%
+P0194    Bebida Isotonica Inti Tipo 08    PAQ50         BEBIDAS       50         2           40           59           26%
+============================================================================================================================================
+COSTO TOTAL:            70.00
+PRECIO TOTAL:           95.00
+GANANCIA TOTAL:         25.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+12) V00012                             C0292                    2026-04-11                         VENDEDOR            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0075    Limpiavidrios Amazonia Tipo 16   UNIDAD        LIMPIEZA       1         7           37           52            0%
+P0105    Harina Misti Tipo 10             UNIDAD        ABARROTES      1         4           26           35            0%
+P0110    Sardina Amazonia Tipo 23         CAJA48        CONSERVAS     48         5           42           61           23%
+============================================================================================================================================
+COSTO TOTAL:           105.00
+PRECIO TOTAL:          148.00
+GANANCIA TOTAL:         43.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+13) V00013                             C0204                    2026-05-16                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0106    Te Inti Tipo 11                  CAJA12        BEBIDAS       12         6            9           14           13%
+P0204    Shampoo Norte Tipo 16            UNIDAD        HIGIENE        1         6            1            1            0%
+P0028    Pasta Dental Sol Tipo 07         UNIDAD        HIGIENE        1        11           46           69            0%
+============================================================================================================================================
+COSTO TOTAL:            56.00
+PRECIO TOTAL:           84.00
+GANANCIA TOTAL:         28.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+14) V00014                             C0233                    2026-06-22                         VENDEDOR            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0115    Suavizante Pacifico Tipo 05      UNIDAD        LIMPIEZA       1        16           11           14            0%
+P0181    Galletas Andes Tipo 14           CAJA100       SNACKS       100         5           22           29           33%
+P0038    Atun Costa Tipo 16               CAJA100       CONSERVAS    100         5            6            8           33%
+P0199    Cinta Adhesiva Kantu Tipo 15     PAQ50         OFICINA       50         6           38           48           26%
+============================================================================================================================================
+COSTO TOTAL:            77.00
+PRECIO TOTAL:           99.00
+GANANCIA TOTAL:         22.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+15) V00015                             C0153                    2026-04-07                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0083    Detergente Sol Tipo 07           UNIDAD        LIMPIEZA       1        13           24           36            0%
+P0203    Detergente Costa Tipo 25         UNIDAD        LIMPIEZA       1         3           38           55            0%
+P0047    Lapicero Valle Tipo 14           UNIDAD        OFICINA        1        17           42           60            0%
+P0117    Chocolate Norte Tipo 19          UNIDAD        SNACKS         1        12           37           58            0%
+P0208    Alimento Perro Valle Tipo 22     UNIDAD        MASCOTAS       1         6           33           38            0%
+P0135    Papel A4 Pacifico Tipo 20        UNIDAD        OFICINA        1        16           25           31            0%
+============================================================================================================================================
+COSTO TOTAL:           199.00
+PRECIO TOTAL:          278.00
+GANANCIA TOTAL:         79.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+16) V00016                             C0433                    2026-07-15                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0181    Galletas Andes Tipo 14           UNIDAD        SNACKS         1         2           22           29            0%
+P0157    Caramelo Misti Tipo 23           UNIDAD        SNACKS         1         2           40           56            0%
+============================================================================================================================================
+COSTO TOTAL:            62.00
+PRECIO TOTAL:           85.00
+GANANCIA TOTAL:         23.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+17) V00017                             C0229                    2026-01-24                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0029    Papas Amazonia Tipo 05           UNIDAD        SNACKS         1         8           25           31            0%
+P0009    Azucar Sierra Tipo 05            UNIDAD        ABARROTES      1         4           44           66            0%
+P0028    Pasta Dental Sol Tipo 07         UNIDAD        HIGIENE        1        14           46           69            0%
+P0169    Arroz Sol Tipo 25                UNIDAD        ABARROTES      1         2           42           47            0%
+P0152    Alimento Gato Sol Tipo 13        UNIDAD        MASCOTAS       1         4           11           16            0%
+P0152    Alimento Gato Sol Tipo 13        UNIDAD        MASCOTAS       1         1           11           16            0%
+P0075    Limpiavidrios Amazonia Tipo 16   UNIDAD        LIMPIEZA       1        17           37           52            0%
+P0054    Maiz Dulce Amazonia Tipo 24      PAQ25         CONSERVAS     25         3           45           54           21%
+P0201    Fideo Costa Tipo 02              UNIDAD        ABARROTES      1         8           26           38            0%
+============================================================================================================================================
+COSTO TOTAL:           287.00
+PRECIO TOTAL:          389.00
+GANANCIA TOTAL:        102.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+18) V00018                             C0421                    2026-07-23                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0201    Fideo Costa Tipo 02              UNIDAD        ABARROTES      1        16           26           38            0%
+P0188    Papel Higienico Inti Tipo 02     PAQ20         HIGIENE       20         3           42           60           13%
+P0210    Bebida Isotonica Misti Tipo 21   UNIDAD        BEBIDAS        1         4           46           56            0%
+P0101    Caramelo Central Tipo 09         PAQ50         SNACKS        50         5           45           64           26%
+============================================================================================================================================
+COSTO TOTAL:           159.00
+PRECIO TOTAL:          218.00
+GANANCIA TOTAL:         59.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+19) V00019                             C0332                    2026-04-10                         VENDEDOR            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0049    Arroz Costa Tipo 21              PAQ25         ABARROTES     25         2           36           43           21%
+============================================================================================================================================
+COSTO TOTAL:            36.00
+PRECIO TOTAL:           43.00
+GANANCIA TOTAL:          7.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+20) V00020                             C0546                    2026-01-06                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0078    Maiz Dulce Sierra Tipo 17        PAQ50         CONSERVAS     50         1           43           51           26%
+P0131    Lejia Misti Tipo 20              UNIDAD        LIMPIEZA       1         1           47           56            0%
+P0043    Suavizante Sol Tipo 06           UNIDAD        LIMPIEZA       1        13           31           37            0%
+P0190    Atun Andes Tipo 06               UNIDAD        CONSERVAS      1         8           18           26            0%
+P0045    Barra Energetica Sol Tipo 11     PAQ20         SNACKS        20         1           10           13           13%
+P0137    Azucar Costa Tipo 04             CAJA24        ABARROTES     24         3           34           52           19%
+============================================================================================================================================
+COSTO TOTAL:           183.00
+PRECIO TOTAL:          235.00
+GANANCIA TOTAL:         52.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+21) V00021                             C0139                    2026-04-01                         TIENDA              
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+22) V00022                             C0481                    2026-05-11                         VENDEDOR            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0204    Shampoo Norte Tipo 16            UNIDAD        HIGIENE        1        10            1            1            0%
+P0177    Fideo Sol Tipo 14                PAQ50         ABARROTES     50         4           44           67           26%
+P0207    Cinta Adhesiva Valle Tipo 20     UNIDAD        OFICINA        1        12            8           12            0%
+P0036    Jabon Norte Tipo 24              UNIDAD        HIGIENE        1        15           14           20            0%
+============================================================================================================================================
+COSTO TOTAL:            67.00
+PRECIO TOTAL:          100.00
+GANANCIA TOTAL:         33.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+23) V00023                             C0369                    2026-04-04                         TIENDA              
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0023    Marcador Andes Tipo 23           CAJA48        OFICINA       48         7           30           36           23%
+============================================================================================================================================
+COSTO TOTAL:            30.00
+PRECIO TOTAL:           36.00
+GANANCIA TOTAL:          6.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+24) V00024                             C0416                    2026-07-05                         TIENDA              
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0212    Shampoo Sierra Tipo 13           UNIDAD        HIGIENE        1         5            4            6            0%
+P0192    Alimento Perro Costa Tipo 13     UNIDAD        MASCOTAS       1         3            7            9            0%
+P0088    Alimento Gato Pacifico Tipo 20   UNIDAD        MASCOTAS       1        13           15           22            0%
+P0105    Harina Misti Tipo 10             UNIDAD        ABARROTES      1         4           26           35            0%
+============================================================================================================================================
+COSTO TOTAL:            52.00
+PRECIO TOTAL:           72.00
+GANANCIA TOTAL:         20.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+25) V00025                             C0390                    2026-02-23                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0132    Alcohol Gel Central Tipo 02      UNIDAD        HIGIENE        1        18           25           38            0%
+P0107    Suavizante Pacifico Tipo 22      PAQ25         LIMPIEZA      25         7           30           38           21%
+P0102    Maiz Dulce Valle Tipo 15         UNIDAD        CONSERVAS      1         5           31           40            0%
+P0099    Suavizante Inti Tipo 14          PAQ25         LIMPIEZA      25         1           36           48           21%
+P0208    Alimento Perro Valle Tipo 22     UNIDAD        MASCOTAS       1         7           33           38            0%
+P0148    Pasta Dental Misti Tipo 11       UNIDAD        HIGIENE        1        17           22           27            0%
+============================================================================================================================================
+COSTO TOTAL:           177.00
+PRECIO TOTAL:          229.00
+GANANCIA TOTAL:         52.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+26) V00026                             C0097                    2026-03-05                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0079    Folder Amazonia Tipo 14          UNIDAD        OFICINA        1         8            8           10            0%
+P0010    Agua Inti Tipo 13                PAQ50         BEBIDAS       50         2           24           29           26%
+============================================================================================================================================
+COSTO TOTAL:            32.00
+PRECIO TOTAL:           39.00
+GANANCIA TOTAL:          7.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+27) V00027                             C0471                    2026-01-11                         TIENDA              
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0049    Arroz Costa Tipo 21              CAJA100       ABARROTES    100         3           36           43           33%
+P0195    Detergente Misti Tipo 04         CAJA24        LIMPIEZA      24         6           37           56           19%
+P0203    Detergente Costa Tipo 25         CAJA12        LIMPIEZA      12         7           38           55           13%
+P0076    Alcohol Gel Valle Tipo 10        UNIDAD        HIGIENE        1         8           37           54            0%
+============================================================================================================================================
+COSTO TOTAL:           148.00
+PRECIO TOTAL:          208.00
+GANANCIA TOTAL:         60.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+28) V00028                             C0531                    2026-03-15                         TIENDA              
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0173    Barra Energetica Inti Tipo 11    UNIDAD        SNACKS         1        12           38           50            0%
+P0168    Alimento Perro Central Tipo 23   CAJA48        MASCOTAS      48         2           10           13           23%
+P0049    Arroz Costa Tipo 21              UNIDAD        ABARROTES      1        11           36           43            0%
+P0166    Salsa de Tomate Sierra Tipo 03   CAJA100       CONSERVAS    100         8           31           40           33%
+============================================================================================================================================
+COSTO TOTAL:           115.00
+PRECIO TOTAL:          146.00
+GANANCIA TOTAL:         31.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+29) V00029                             C0360                    2026-02-17                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0191    Lapicero Andes Tipo 05           UNIDAD        OFICINA        1        12           41           62            0%
+P0152    Alimento Gato Sol Tipo 13        UNIDAD        MASCOTAS       1         4           11           16            0%
+P0132    Alcohol Gel Central Tipo 02      UNIDAD        HIGIENE        1         3           25           38            0%
+============================================================================================================================================
+COSTO TOTAL:            77.00
+PRECIO TOTAL:          116.00
+GANANCIA TOTAL:         39.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+30) V00030                             C0117                    2026-04-13                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0111    Cuaderno Sierra Tipo 21          CAJA12        OFICINA       12         7           16           18           13%
+P0009    Azucar Sierra Tipo 05            UNIDAD        ABARROTES      1        13           44           66            0%
+P0184    Snack Canino Pacifico Tipo 14    UNIDAD        MASCOTAS       1         9            6            8            0%
+============================================================================================================================================
+COSTO TOTAL:            66.00
+PRECIO TOTAL:           92.00
+GANANCIA TOTAL:         26.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+31) V00031                             C0535                    2026-07-15                         TIENDA              
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0161    Frijol Misti Tipo 23             UNIDAD        ABARROTES      1        16           34           48            0%
+P0131    Lejia Misti Tipo 20              CAJA100       LIMPIEZA     100         8           47           56           33%
+P0185    Azucar Valle Tipo 02             CAJA48        ABARROTES     48         6            4            5           23%
+============================================================================================================================================
+COSTO TOTAL:            85.00
+PRECIO TOTAL:          109.00
+GANANCIA TOTAL:         24.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+32) V00032                             C0377                    2026-02-15                         VENDEDOR            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0119    Lapicero Sol Tipo 14             UNIDAD        OFICINA        1        14           20           27            0%
+============================================================================================================================================
+COSTO TOTAL:            20.00
+PRECIO TOTAL:           27.00
+GANANCIA TOTAL:          7.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+33) V00033                             C0188                    2026-02-13                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0170    Bebida Isotonica Pacifico Tipo 07UNIDAD        BEBIDAS        1        13           30           39            0%
+P0199    Cinta Adhesiva Kantu Tipo 15     UNIDAD        OFICINA        1         9           38           48            0%
+P0172    Alcohol Gel Amazonia Tipo 10     PAQ10         HIGIENE       10         4            5            7            8%
+P0106    Te Inti Tipo 11                  UNIDAD        BEBIDAS        1        16            9           14            0%
+============================================================================================================================================
+COSTO TOTAL:            82.00
+PRECIO TOTAL:          108.00
+GANANCIA TOTAL:         26.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+34) V00034                             C0301                    2026-02-15                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0198    Leche Evaporada Sierra Tipo 25   UNIDAD        CONSERVAS      1         9            3            4            0%
+P0054    Maiz Dulce Amazonia Tipo 24      CAJA48        CONSERVAS     48         3           45           54           23%
+============================================================================================================================================
+COSTO TOTAL:            48.00
+PRECIO TOTAL:           58.00
+GANANCIA TOTAL:         10.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+35) V00035                             C0106                    2026-03-16                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0109    Chocolate Valle Tipo 04          UNIDAD        SNACKS         1         6           12           14            0%
+P0119    Lapicero Sol Tipo 14             PAQ50         OFICINA       50         5           20           27           26%
+P0165    Barra Energetica Misti Tipo 11   CAJA100       SNACKS       100         6           20           25           33%
+P0034    Agua Central Tipo 04             CAJA12        BEBIDAS       12         6           23           27           13%
+P0009    Azucar Sierra Tipo 05            PAQ25         ABARROTES     25         6           44           66           21%
+============================================================================================================================================
+COSTO TOTAL:           119.00
+PRECIO TOTAL:          159.00
+GANANCIA TOTAL:         40.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+36) V00036                             C0500                    2026-04-22                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0174    Leche Evaporada Costa Tipo 22    PAQ25         CONSERVAS     25         5           41           51           21%
+============================================================================================================================================
+COSTO TOTAL:            41.00
+PRECIO TOTAL:           51.00
+GANANCIA TOTAL:         10.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+37) V00037                             C0191                    2026-02-10                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0050    Jugo Kantu Tipo 13               UNIDAD        BEBIDAS        1         8            5            7            0%
+P0105    Harina Misti Tipo 10             UNIDAD        ABARROTES      1        11           26           35            0%
+============================================================================================================================================
+COSTO TOTAL:            31.00
+PRECIO TOTAL:           42.00
+GANANCIA TOTAL:         11.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+38) V00038                             C0436                    2026-02-14                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0200    Alimento Gato Pacifico Tipo 09   UNIDAD        MASCOTAS       1         5           29           35            0%
+P0084    Alcohol Gel Inti Tipo 04         UNIDAD        HIGIENE        1         6           45           54            0%
+P0030    Durazno Sierra Tipo 08           UNIDAD        CONSERVAS      1        10           27           35            0%
+P0212    Shampoo Sierra Tipo 13           UNIDAD        HIGIENE        1         4            4            6            0%
+P0063    Marcador Norte Tipo 24           CAJA24        OFICINA       24         8           18           27           19%
+P0017    Sal Central Tipo 03              CAJA24        ABARROTES     24         4            3            3           19%
+P0116    Pasta Dental Misti Tipo 02       UNIDAD        HIGIENE        1         1           36           50            0%
+P0201    Fideo Costa Tipo 02              UNIDAD        ABARROTES      1         7           26           38            0%
+============================================================================================================================================
+COSTO TOTAL:           188.00
+PRECIO TOTAL:          248.00
+GANANCIA TOTAL:         60.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+39) V00039                             C0391                    2026-02-14                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0006    Salsa de Tomate Amazonia Tipo 11 CAJA100       CONSERVAS    100         1           22           28           33%
+P0135    Papel A4 Pacifico Tipo 20        UNIDAD        OFICINA        1         6           25           31            0%
+P0148    Pasta Dental Misti Tipo 11       CAJA12        HIGIENE       12         7           22           27           13%
+P0069    Barra Energetica Central Tipo 09 PAQ25         SNACKS        25         6           18           21           21%
+P0017    Sal Central Tipo 03              CAJA24        ABARROTES     24         5            3            3           19%
+============================================================================================================================================
+COSTO TOTAL:            90.00
+PRECIO TOTAL:          110.00
+GANANCIA TOTAL:         20.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+40) V00040                             C0130                    2026-02-04                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0185    Azucar Valle Tipo 02             UNIDAD        ABARROTES      1         8            4            5            0%
+P0155    Lejia Sierra Tipo 12             UNIDAD        LIMPIEZA       1         3           13           18            0%
+P0037    Chocolate Kantu Tipo 18          PAQ25         SNACKS        25         3           21           30           21%
+P0029    Papas Amazonia Tipo 05           UNIDAD        SNACKS         1         8           25           31            0%
+============================================================================================================================================
+COSTO TOTAL:            63.00
+PRECIO TOTAL:           84.00
+GANANCIA TOTAL:         21.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+41) V00041                             C0340                    2026-07-20                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0157    Caramelo Misti Tipo 23           CAJA100       SNACKS       100         5           40           56           33%
+P0002    Bebida Isotonica Costa Tipo 24   CAJA48        BEBIDAS       48         8           40           56           23%
+P0008    Arena Gato Amazonia Tipo 11      CAJA100       MASCOTAS     100         3           31           43           33%
+============================================================================================================================================
+COSTO TOTAL:           111.00
+PRECIO TOTAL:          155.00
+GANANCIA TOTAL:         44.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+42) V00042                             C0518                    2026-01-27                         TIENDA              
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0212    Shampoo Sierra Tipo 13           UNIDAD        HIGIENE        1        18            4            6            0%
+P0007    Cuaderno Kantu Tipo 18           UNIDAD        OFICINA        1         1           21           26            0%
+P0117    Chocolate Norte Tipo 19          UNIDAD        SNACKS         1        15           37           58            0%
+P0101    Caramelo Central Tipo 09         UNIDAD        SNACKS         1        13           45           64            0%
+P0119    Lapicero Sol Tipo 14             UNIDAD        OFICINA        1         2           20           27            0%
+P0208    Alimento Perro Valle Tipo 22     UNIDAD        MASCOTAS       1         9           33           38            0%
+============================================================================================================================================
+COSTO TOTAL:           160.00
+PRECIO TOTAL:          219.00
+GANANCIA TOTAL:         59.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+43) V00043                             C0544                    2026-02-27                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0037    Chocolate Kantu Tipo 18          UNIDAD        SNACKS         1         3           21           30            0%
+P0049    Arroz Costa Tipo 21              PAQ20         ABARROTES     20         4           36           43           13%
+P0139    Suavizante Central Tipo 11       PAQ25         LIMPIEZA      25         6           38           43           21%
+P0202    Agua Norte Tipo 01               CAJA12        BEBIDAS       12         2            8           12           13%
+P0083    Detergente Sol Tipo 07           UNIDAD        LIMPIEZA       1        11           24           36            0%
+============================================================================================================================================
+COSTO TOTAL:           127.00
+PRECIO TOTAL:          164.00
+GANANCIA TOTAL:         37.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+44) V00044                             C0486                    2026-08-12                         TIENDA              
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0021    Cereal Inti Tipo 05              CAJA12        SNACKS        12         7           23           26           13%
+P0043    Suavizante Sol Tipo 06           UNIDAD        LIMPIEZA       1         7           31           37            0%
+P0143    Lapicero Sierra Tipo 03          UNIDAD        OFICINA        1         1           40           48            0%
+P0084    Alcohol Gel Inti Tipo 04         UNIDAD        HIGIENE        1         6           45           54            0%
+============================================================================================================================================
+COSTO TOTAL:           139.00
+PRECIO TOTAL:          165.00
+GANANCIA TOTAL:         26.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+45) V00045                             C0105                    2026-04-06                         VENDEDOR            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0050    Jugo Kantu Tipo 13               PAQ20         BEBIDAS       20         1            5            7           13%
+P0150    Maiz Dulce Amazonia Tipo 09      PAQ20         CONSERVAS     20         4           30           35           13%
+P0144    Shampoo Mascota Sol Tipo 16      UNIDAD        MASCOTAS       1        18            6            9            0%
+P0020    Alcohol Gel Kantu Tipo 13        CAJA48        HIGIENE       48         7           14           18           23%
+============================================================================================================================================
+COSTO TOTAL:            55.00
+PRECIO TOTAL:           69.00
+GANANCIA TOTAL:         14.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+46) V00046                             C0053                    2026-05-05                         TIENDA              
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0143    Lapicero Sierra Tipo 03          UNIDAD        OFICINA        1        13           40           48            0%
+P0148    Pasta Dental Misti Tipo 11       UNIDAD        HIGIENE        1        13           22           27            0%
+P0194    Bebida Isotonica Inti Tipo 08    UNIDAD        BEBIDAS        1         9           40           59            0%
+P0119    Lapicero Sol Tipo 14             CAJA12        OFICINA       12         4           20           27           13%
+============================================================================================================================================
+COSTO TOTAL:           122.00
+PRECIO TOTAL:          161.00
+GANANCIA TOTAL:         39.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+47) V00047                             C0142                    2026-05-07                         VENDEDOR            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0048    Alimento Gato Pacifico Tipo 10   CAJA100       MASCOTAS     100         3           22           33           33%
+P0003    Jabon Liquido Amazonia Tipo 22   PAQ50         LIMPIEZA      50         2           24           35           26%
+P0141    Caramelo Andes Tipo 18           CAJA24        SNACKS        24         8            9           12           19%
+P0057    Cafe Central Tipo 03             PAQ50         ABARROTES     50         2           22           31           26%
+P0010    Agua Inti Tipo 13                PAQ50         BEBIDAS       50         8           24           29           26%
+P0138    Jugo Central Tipo 14             CAJA12        BEBIDAS       12         6           35           49           13%
+============================================================================================================================================
+COSTO TOTAL:           136.00
+PRECIO TOTAL:          189.00
+GANANCIA TOTAL:         53.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+48) V00048                             C0164                    2026-07-04                         TIENDA              
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0057    Cafe Central Tipo 03             UNIDAD        ABARROTES      1        11           22           31            0%
+P0122    Agua Misti Tipo 15               PAQ50         BEBIDAS       50         5           10           14           26%
+P0182    Maiz Dulce Norte Tipo 25         PAQ20         CONSERVAS     20         8           11           15           13%
+P0147    Detergente Pacifico Tipo 11      PAQ50         LIMPIEZA      50         4           30           34           26%
+============================================================================================================================================
+COSTO TOTAL:            73.00
+PRECIO TOTAL:           94.00
+GANANCIA TOTAL:         21.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+49) V00049                             C0010                    2026-01-10                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0061    Papas Norte Tipo 07              PAQ25         SNACKS        25         5            5            6           21%
+P0161    Frijol Misti Tipo 23             UNIDAD        ABARROTES      1        17           34           48            0%
+P0148    Pasta Dental Misti Tipo 11       UNIDAD        HIGIENE        1         3           22           27            0%
+P0193    Avena Kantu Tipo 22              CAJA48        ABARROTES     48         2           46           66           23%
+P0057    Cafe Central Tipo 03             UNIDAD        ABARROTES      1         9           22           31            0%
+============================================================================================================================================
+COSTO TOTAL:           129.00
+PRECIO TOTAL:          178.00
+GANANCIA TOTAL:         49.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+50) V00050                             C0151                    2026-04-21                         TIENDA              
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0136    Alimento Gato Valle Tipo 01      UNIDAD        MASCOTAS       1         4           37           43            0%
+P0172    Alcohol Gel Amazonia Tipo 10     PAQ50         HIGIENE       50         8            5            7           26%
+P0070    Leche Evaporada Misti Tipo 05    UNIDAD        CONSERVAS      1        11           21           28            0%
+============================================================================================================================================
+COSTO TOTAL:            63.00
+PRECIO TOTAL:           78.00
+GANANCIA TOTAL:         15.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+51) V00051                             C0314                    2026-05-13                         VENDEDOR            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0089    Arroz Costa Tipo 19              UNIDAD        ABARROTES      1        10           20           29            0%
+P0025    Fideo Kantu Tipo 04              UNIDAD        ABARROTES      1        10           20           24            0%
+P0192    Alimento Perro Costa Tipo 13     PAQ10         MASCOTAS      10         5            7            9            8%
+============================================================================================================================================
+COSTO TOTAL:            47.00
+PRECIO TOTAL:           62.00
+GANANCIA TOTAL:         15.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+52) V00052                             C0440                    2026-03-14                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0172    Alcohol Gel Amazonia Tipo 10     CAJA24        HIGIENE       24         4            5            7           19%
+P0077    Chocolate Sierra Tipo 05         CAJA12        SNACKS        12         4            9           13           13%
+P0095    Papel A4 Sol Tipo 14             UNIDAD        OFICINA        1        11           35           50            0%
+P0015    Folder Misti Tipo 09             UNIDAD        OFICINA        1        17           29           42            0%
+============================================================================================================================================
+COSTO TOTAL:            78.00
+PRECIO TOTAL:          112.00
+GANANCIA TOTAL:         34.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+53) V00053                             C0319                    2026-08-22                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0126    Atun Sol Tipo 04                 UNIDAD        CONSERVAS      1        18           23           36            0%
+P0088    Alimento Gato Pacifico Tipo 20   UNIDAD        MASCOTAS       1        11           15           22            0%
+P0065    Harina Inti Tipo 23              CAJA48        ABARROTES     48         7           17           26           23%
+P0109    Chocolate Valle Tipo 04          UNIDAD        SNACKS         1        12           12           14            0%
+============================================================================================================================================
+COSTO TOTAL:            67.00
+PRECIO TOTAL:           98.00
+GANANCIA TOTAL:         31.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+54) V00054                             C0177                    2026-06-28                         VENDEDOR            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0083    Detergente Sol Tipo 07           UNIDAD        LIMPIEZA       1        13           24           36            0%
+P0178    Bebida Isotonica Andes Tipo 25   UNIDAD        BEBIDAS        1        18            7            9            0%
+P0121    Frijol Inti Tipo 20              UNIDAD        ABARROTES      1         8           20           28            0%
+============================================================================================================================================
+COSTO TOTAL:            51.00
+PRECIO TOTAL:           73.00
+GANANCIA TOTAL:         22.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+55) V00055                             C0062                    2026-01-13                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0023    Marcador Andes Tipo 23           UNIDAD        OFICINA        1         7           30           36            0%
+P0110    Sardina Amazonia Tipo 23         UNIDAD        CONSERVAS      1         4           42           61            0%
+============================================================================================================================================
+COSTO TOTAL:            72.00
+PRECIO TOTAL:           97.00
+GANANCIA TOTAL:         25.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+56) V00056                             C0044                    2026-07-09                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0110    Sardina Amazonia Tipo 23         PAQ50         CONSERVAS     50         5           42           61           26%
+P0005    Cereal Pacifico Tipo 01          PAQ50         SNACKS        50         2           28           43           26%
+P0178    Bebida Isotonica Andes Tipo 25   CAJA100       BEBIDAS      100         3            7            9           33%
+P0157    Caramelo Misti Tipo 23           UNIDAD        SNACKS         1        10           40           56            0%
+============================================================================================================================================
+COSTO TOTAL:           117.00
+PRECIO TOTAL:          169.00
+GANANCIA TOTAL:         52.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+57) V00057                             C0346                    2026-01-05                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0165    Barra Energetica Misti Tipo 11   PAQ50         SNACKS        50         2           20           25           26%
+P0097    Azucar Central Tipo 16           PAQ10         ABARROTES     10         2           34           47            8%
+P0095    Papel A4 Sol Tipo 14             UNIDAD        OFICINA        1         3           35           50            0%
+P0067    Detergente Central Tipo 02       PAQ10         LIMPIEZA      10         1           35           47            8%
+P0132    Alcohol Gel Central Tipo 02      UNIDAD        HIGIENE        1        18           25           38            0%
+============================================================================================================================================
+COSTO TOTAL:           149.00
+PRECIO TOTAL:          207.00
+GANANCIA TOTAL:         58.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+58) V00058                             C0489                    2026-03-05                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0189    Barra Energetica Costa Tipo 23   UNIDAD        SNACKS         1         9           33           37            0%
+P0131    Lejia Misti Tipo 20              PAQ10         LIMPIEZA      10         8           47           56            8%
+P0200    Alimento Gato Pacifico Tipo 09   UNIDAD        MASCOTAS       1        10           29           35            0%
+P0069    Barra Energetica Central Tipo 09 UNIDAD        SNACKS         1         4           18           21            0%
+============================================================================================================================================
+COSTO TOTAL:           127.00
+PRECIO TOTAL:          149.00
+GANANCIA TOTAL:         22.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+59) V00059                             C0039                    2026-07-24                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0140    Pasta Dental Amazonia Tipo 13    UNIDAD        HIGIENE        1        16           45           66            0%
+P0033    Quinua Valle Tipo 12             CAJA24        ABARROTES     24         7           12           16           19%
+============================================================================================================================================
+COSTO TOTAL:            57.00
+PRECIO TOTAL:           82.00
+GANANCIA TOTAL:         25.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+60) V00060                             C0059                    2026-02-01                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0045    Barra Energetica Sol Tipo 11     UNIDAD        SNACKS         1        13           10           13            0%
+P0170    Bebida Isotonica Pacifico Tipo 07UNIDAD        BEBIDAS        1         9           30           39            0%
+P0062    Sardina Norte Tipo 12            CAJA100       CONSERVAS    100         7           22           29           33%
+============================================================================================================================================
+COSTO TOTAL:            62.00
+PRECIO TOTAL:           81.00
+GANANCIA TOTAL:         19.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+61) V00061                             C0280                    2026-07-14                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0139    Suavizante Central Tipo 11       UNIDAD        LIMPIEZA       1         5           38           43            0%
+P0033    Quinua Valle Tipo 12             UNIDAD        ABARROTES      1         5           12           16            0%
+P0078    Maiz Dulce Sierra Tipo 17        PAQ25         CONSERVAS     25         5           43           51           21%
+============================================================================================================================================
+COSTO TOTAL:            93.00
+PRECIO TOTAL:          110.00
+GANANCIA TOTAL:         17.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+62) V00062                             C0241                    2026-04-09                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0193    Avena Kantu Tipo 22              PAQ50         ABARROTES     50         6           46           66           26%
+P0180    Alcohol Gel Inti Tipo 20         UNIDAD        HIGIENE        1         5           41           64            0%
+P0057    Cafe Central Tipo 03             UNIDAD        ABARROTES      1         2           22           31            0%
+============================================================================================================================================
+COSTO TOTAL:           109.00
+PRECIO TOTAL:          161.00
+GANANCIA TOTAL:         52.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+63) V00063                             C0165                    2026-01-24                         VENDEDOR            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0055    Lapicero Sierra Tipo 21          CAJA12        OFICINA       12         3           42           56           13%
+============================================================================================================================================
+COSTO TOTAL:            42.00
+PRECIO TOTAL:           56.00
+GANANCIA TOTAL:         14.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+64) V00064                             C0027                    2026-03-30                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0020    Alcohol Gel Kantu Tipo 13        UNIDAD        HIGIENE        1         1           14           18            0%
+============================================================================================================================================
+COSTO TOTAL:            14.00
+PRECIO TOTAL:           18.00
+GANANCIA TOTAL:          4.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+65) V00065                             C0515                    2026-03-12                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0001    Avena Pacifico Tipo 17           CAJA48        ABARROTES     48         4           22           25           23%
+P0025    Fideo Kantu Tipo 04              CAJA12        ABARROTES     12         2           20           24           13%
+P0030    Durazno Sierra Tipo 08           UNIDAD        CONSERVAS      1         3           27           35            0%
+P0105    Harina Misti Tipo 10             UNIDAD        ABARROTES      1        18           26           35            0%
+============================================================================================================================================
+COSTO TOTAL:            95.00
+PRECIO TOTAL:          119.00
+GANANCIA TOTAL:         24.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+66) V00066                             C0426                    2026-01-28                         VENDEDOR            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0042    Bebida Isotonica Kantu Tipo 04   CAJA100       BEBIDAS      100         2           22           32           33%
+P0091    Desinfectante Norte Tipo 02      UNIDAD        LIMPIEZA       1         9           11           15            0%
+P0028    Pasta Dental Sol Tipo 07         UNIDAD        HIGIENE        1         4           46           69            0%
+P0142    Sardina Amazonia Tipo 10         UNIDAD        CONSERVAS      1        18           38           55            0%
+P0100    Shampoo Sol Tipo 17              CAJA24        HIGIENE       24         5           13           18           19%
+============================================================================================================================================
+COSTO TOTAL:           130.00
+PRECIO TOTAL:          189.00
+GANANCIA TOTAL:         59.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+67) V00067                             C0371                    2026-01-23                         TIENDA              
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0033    Quinua Valle Tipo 12             PAQ50         ABARROTES     50         7           12           16           26%
+P0213    Barra Energetica Andes Tipo 21   PAQ50         SNACKS        50         3           21           32           26%
+P0033    Quinua Valle Tipo 12             PAQ20         ABARROTES     20         2           12           16           13%
+============================================================================================================================================
+COSTO TOTAL:            45.00
+PRECIO TOTAL:           64.00
+GANANCIA TOTAL:         19.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+68) V00068                             C0324                    2026-04-25                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0048    Alimento Gato Pacifico Tipo 10   PAQ50         MASCOTAS      50         1           22           33           26%
+P0100    Shampoo Sol Tipo 17              UNIDAD        HIGIENE        1        10           13           18            0%
+============================================================================================================================================
+COSTO TOTAL:            35.00
+PRECIO TOTAL:           51.00
+GANANCIA TOTAL:         16.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+69) V00069                             C0006                    2026-06-12                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0168    Alimento Perro Central Tipo 23   CAJA24        MASCOTAS      24         8           10           13           19%
+P0186    Te Central Tipo 11               UNIDAD        BEBIDAS        1         7           25           30            0%
+P0176    Alimento Perro Andes Tipo 24     UNIDAD        MASCOTAS       1        17           39           51            0%
+P0183    Folder Inti Tipo 02              UNIDAD        OFICINA        1        17           40           52            0%
+============================================================================================================================================
+COSTO TOTAL:           114.00
+PRECIO TOTAL:          146.00
+GANANCIA TOTAL:         32.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+70) V00070                             C0034                    2026-03-17                         TIENDA              
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0201    Fideo Costa Tipo 02              UNIDAD        ABARROTES      1        10           26           38            0%
+P0056    Shampoo Mascota Misti Tipo 13    CAJA12        MASCOTAS      12         5           11           15           13%
+P0084    Alcohol Gel Inti Tipo 04         UNIDAD        HIGIENE        1         7           45           54            0%
+P0131    Lejia Misti Tipo 20              UNIDAD        LIMPIEZA       1         6           47           56            0%
+P0175    Lapicero Inti Tipo 02            UNIDAD        OFICINA        1         7            5            7            0%
+============================================================================================================================================
+COSTO TOTAL:           134.00
+PRECIO TOTAL:          170.00
+GANANCIA TOTAL:         36.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+71) V00071                             C0294                    2026-03-05                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0148    Pasta Dental Misti Tipo 11       UNIDAD        HIGIENE        1        10           22           27            0%
+P0028    Pasta Dental Sol Tipo 07         UNIDAD        HIGIENE        1         7           46           69            0%
+============================================================================================================================================
+COSTO TOTAL:            68.00
+PRECIO TOTAL:           96.00
+GANANCIA TOTAL:         28.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+72) V00072                             C0526                    2026-04-21                         TIENDA              
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0085    Barra Energetica Sol Tipo 23     PAQ20         SNACKS        20         3           18           22           13%
+P0091    Desinfectante Norte Tipo 02      UNIDAD        LIMPIEZA       1        12           11           15            0%
+P0172    Alcohol Gel Amazonia Tipo 10     UNIDAD        HIGIENE        1         6            5            7            0%
+P0168    Alimento Perro Central Tipo 23   PAQ25         MASCOTAS      25         3           10           13           21%
+P0020    Alcohol Gel Kantu Tipo 13        UNIDAD        HIGIENE        1        14           14           18            0%
+============================================================================================================================================
+COSTO TOTAL:            58.00
+PRECIO TOTAL:           75.00
+GANANCIA TOTAL:         17.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+73) V00073                             C0150                    2026-05-09                         TIENDA              
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0211    Suavizante Sierra Tipo 08        UNIDAD        LIMPIEZA       1         5           36           53            0%
+P0147    Detergente Pacifico Tipo 11      UNIDAD        LIMPIEZA       1         6           30           34            0%
+P0037    Chocolate Kantu Tipo 18          UNIDAD        SNACKS         1         1           21           30            0%
+============================================================================================================================================
+COSTO TOTAL:            87.00
+PRECIO TOTAL:          117.00
+GANANCIA TOTAL:         30.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+74) V00074                             C0533                    2026-03-18                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0052    Pasta Dental Sol Tipo 21         PAQ20         HIGIENE       20         4           10           14           13%
+P0120    Shampoo Mascota Sol Tipo 03      CAJA24        MASCOTAS      24         2           36           54           19%
+P0142    Sardina Amazonia Tipo 10         UNIDAD        CONSERVAS      1        13           38           55            0%
+P0077    Chocolate Sierra Tipo 05         UNIDAD        SNACKS         1        12            9           13            0%
+P0132    Alcohol Gel Central Tipo 02      UNIDAD        HIGIENE        1         4           25           38            0%
+============================================================================================================================================
+COSTO TOTAL:           118.00
+PRECIO TOTAL:          174.00
+GANANCIA TOTAL:         56.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+75) V00075                             C0353                    2026-05-31                         TIENDA              
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0146    Bebida Isotonica Valle Tipo 09   CAJA100       BEBIDAS      100         3            6            9           33%
+P0129    Fideo Sierra Tipo 11             PAQ10         ABARROTES     10         6           44           63            8%
+============================================================================================================================================
+COSTO TOTAL:            50.00
+PRECIO TOTAL:           72.00
+GANANCIA TOTAL:         22.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+76) V00076                             C0544                    2026-06-09                         VENDEDOR            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0208    Alimento Perro Valle Tipo 22     UNIDAD        MASCOTAS       1        15           33           38            0%
+P0070    Leche Evaporada Misti Tipo 05    PAQ25         CONSERVAS     25         8           21           28           21%
+============================================================================================================================================
+COSTO TOTAL:            54.00
+PRECIO TOTAL:           66.00
+GANANCIA TOTAL:         12.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+77) V00077                             C0332                    2026-03-15                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0095    Papel A4 Sol Tipo 14             UNIDAD        OFICINA        1        17           35           50            0%
+============================================================================================================================================
+COSTO TOTAL:            35.00
+PRECIO TOTAL:           50.00
+GANANCIA TOTAL:         15.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+78) V00078                             C0459                    2026-07-08                         VENDEDOR            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0031    Folder Kantu Tipo 04             CAJA24        OFICINA       24         1           38           49           19%
+P0170    Bebida Isotonica Pacifico Tipo 07UNIDAD        BEBIDAS        1        16           30           39            0%
+P0060    Toalla Humeda Kantu Tipo 04      PAQ25         HIGIENE       25         8           46           68           21%
+============================================================================================================================================
+COSTO TOTAL:           114.00
+PRECIO TOTAL:          156.00
+GANANCIA TOTAL:         42.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+79) V00079                             C0500                    2026-01-09                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0019    Suavizante Central Tipo 11       UNIDAD        LIMPIEZA       1         7           24           31            0%
+P0043    Suavizante Sol Tipo 06           PAQ50         LIMPIEZA      50         2           31           37           26%
+P0085    Barra Energetica Sol Tipo 23     UNIDAD        SNACKS         1         5           18           22            0%
+============================================================================================================================================
+COSTO TOTAL:            73.00
+PRECIO TOTAL:           90.00
+GANANCIA TOTAL:         17.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+80) V00080                             C0471                    2026-06-26                         VENDEDOR            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0044    Papel Higienico Pacifico Tipo 02 CAJA12        HIGIENE       12         2            7           11           13%
+P0176    Alimento Perro Andes Tipo 24     UNIDAD        MASCOTAS       1         5           39           51            0%
+P0180    Alcohol Gel Inti Tipo 20         PAQ50         HIGIENE       50         4           41           64           26%
+P0090    Jugo Inti Tipo 23                UNIDAD        BEBIDAS        1        14           27           34            0%
+============================================================================================================================================
+COSTO TOTAL:           114.00
+PRECIO TOTAL:          160.00
+GANANCIA TOTAL:         46.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+81) V00081                             C0191                    2026-07-25                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0057    Cafe Central Tipo 03             UNIDAD        ABARROTES      1         2           22           31            0%
+============================================================================================================================================
+COSTO TOTAL:            22.00
+PRECIO TOTAL:           31.00
+GANANCIA TOTAL:          9.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+82) V00082                             C0153                    2026-01-25                         VENDEDOR            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0046    Sardina Amazonia Tipo 14         UNIDAD        CONSERVAS      1        15           25           32            0%
+P0150    Maiz Dulce Amazonia Tipo 09      UNIDAD        CONSERVAS      1         2           30           35            0%
+P0132    Alcohol Gel Central Tipo 02      CAJA12        HIGIENE       12         4           25           38           13%
+P0169    Arroz Sol Tipo 25                PAQ50         ABARROTES     50         4           42           47           26%
+P0201    Fideo Costa Tipo 02              PAQ25         ABARROTES     25         8           26           38           21%
+P0136    Alimento Gato Valle Tipo 01      CAJA100       MASCOTAS     100         5           37           43           33%
+============================================================================================================================================
+COSTO TOTAL:           185.00
+PRECIO TOTAL:          233.00
+GANANCIA TOTAL:         48.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+83) V00083                             C0059                    2026-02-28                         VENDEDOR            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0101    Caramelo Central Tipo 09         UNIDAD        SNACKS         1         8           45           64            0%
+P0018    Gaseosa Sol Tipo 07              PAQ25         BEBIDAS       25         7           47           64           21%
+============================================================================================================================================
+COSTO TOTAL:            92.00
+PRECIO TOTAL:          128.00
+GANANCIA TOTAL:         36.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+84) V00084                             C0340                    2026-04-07                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0203    Detergente Costa Tipo 25         UNIDAD        LIMPIEZA       1         8           38           55            0%
+P0175    Lapicero Inti Tipo 02            CAJA12        OFICINA       12         1            5            7           13%
+P0071    Cuaderno Pacifico Tipo 10        CAJA12        OFICINA       12         3            6            6           13%
+P0054    Maiz Dulce Amazonia Tipo 24      CAJA48        CONSERVAS     48         5           45           54           23%
+============================================================================================================================================
+COSTO TOTAL:            94.00
+PRECIO TOTAL:          122.00
+GANANCIA TOTAL:         28.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+85) V00085                             C0292                    2026-05-16                         VENDEDOR            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0151    Marcador Costa Tipo 17           UNIDAD        OFICINA        1        12           12           17            0%
+P0058    Jugo Central Tipo 15             PAQ10         BEBIDAS       10         2            6            9            8%
+P0052    Pasta Dental Sol Tipo 21         UNIDAD        HIGIENE        1        10           10           14            0%
+P0004    Alcohol Gel Valle Tipo 05        CAJA24        HIGIENE       24         5           35           45           19%
+P0130    Jugo Amazonia Tipo 22            CAJA48        BEBIDAS       48         5           18           23           23%
+P0010    Agua Inti Tipo 13                UNIDAD        BEBIDAS        1         7           24           29            0%
+P0054    Maiz Dulce Amazonia Tipo 24      UNIDAD        CONSERVAS      1        16           45           54            0%
+P0211    Suavizante Sierra Tipo 08        UNIDAD        LIMPIEZA       1         4           36           53            0%
+P0070    Leche Evaporada Misti Tipo 05    CAJA12        CONSERVAS     12         5           21           28           13%
+P0110    Sardina Amazonia Tipo 23         UNIDAD        CONSERVAS      1         7           42           61            0%
+============================================================================================================================================
+COSTO TOTAL:           249.00
+PRECIO TOTAL:          333.00
+GANANCIA TOTAL:         84.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+86) V00086                             C0188                    2026-07-14                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0032    Alimento Perro Valle Tipo 21     UNIDAD        MASCOTAS       1        11           38           46            0%
+P0060    Toalla Humeda Kantu Tipo 04      UNIDAD        HIGIENE        1        16           46           68            0%
+============================================================================================================================================
+COSTO TOTAL:            84.00
+PRECIO TOTAL:          114.00
+GANANCIA TOTAL:         30.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+87) V00087                             C0165                    2026-08-20                         TIENDA              
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0176    Alimento Perro Andes Tipo 24     CAJA12        MASCOTAS      12         6           39           51           13%
+P0107    Suavizante Pacifico Tipo 22      CAJA48        LIMPIEZA      48         8           30           38           23%
+============================================================================================================================================
+COSTO TOTAL:            69.00
+PRECIO TOTAL:           89.00
+GANANCIA TOTAL:         20.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+88) V00088                             C0117                    2026-01-17                         VENDEDOR            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0096    Snack Canino Inti Tipo 16        CAJA24        MASCOTAS      24         2           11           15           19%
+P0042    Bebida Isotonica Kantu Tipo 04   UNIDAD        BEBIDAS        1        11           22           32            0%
+============================================================================================================================================
+COSTO TOTAL:            33.00
+PRECIO TOTAL:           47.00
+GANANCIA TOTAL:         14.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+89) V00089                             C0546                    2026-03-25                         VENDEDOR            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0167    Papel A4 Inti Tipo 11            UNIDAD        OFICINA        1         4           36           42            0%
+P0088    Alimento Gato Pacifico Tipo 20   UNIDAD        MASCOTAS       1         1           15           22            0%
+P0182    Maiz Dulce Norte Tipo 25         PAQ10         CONSERVAS     10         8           11           15            8%
+P0101    Caramelo Central Tipo 09         UNIDAD        SNACKS         1         3           45           64            0%
+P0013    Barra Energetica Costa Tipo 18   PAQ25         SNACKS        25         2           33           48           21%
+P0102    Maiz Dulce Valle Tipo 15         UNIDAD        CONSERVAS      1        17           31           40            0%
+P0141    Caramelo Andes Tipo 18           CAJA48        SNACKS        48         8            9           12           23%
+P0080    Alimento Perro Valle Tipo 10     CAJA100       MASCOTAS     100         1           17           21           33%
+P0157    Caramelo Misti Tipo 23           UNIDAD        SNACKS         1         1           40           56            0%
+P0170    Bebida Isotonica Pacifico Tipo 07UNIDAD        BEBIDAS        1         8           30           39            0%
+P0161    Frijol Misti Tipo 23             UNIDAD        ABARROTES      1         7           34           48            0%
+============================================================================================================================================
+COSTO TOTAL:           301.00
+PRECIO TOTAL:          407.00
+GANANCIA TOTAL:        106.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+90) V00090                             C0101                    2026-01-26                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0041    Lenteja Amazonia Tipo 11         CAJA100       ABARROTES    100         7           47           70           33%
+P0067    Detergente Central Tipo 02       UNIDAD        LIMPIEZA       1         3           35           47            0%
+P0060    Toalla Humeda Kantu Tipo 04      UNIDAD        HIGIENE        1        17           46           68            0%
+============================================================================================================================================
+COSTO TOTAL:           128.00
+PRECIO TOTAL:          185.00
+GANANCIA TOTAL:         57.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+91) V00091                             C0433                    2026-07-03                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0170    Bebida Isotonica Pacifico Tipo 07UNIDAD        BEBIDAS        1         3           30           39            0%
+P0102    Maiz Dulce Valle Tipo 15         UNIDAD        CONSERVAS      1        18           31           40            0%
+P0084    Alcohol Gel Inti Tipo 04         PAQ10         HIGIENE       10         8           45           54            8%
+P0013    Barra Energetica Costa Tipo 18   CAJA48        SNACKS        48         4           33           48           23%
+============================================================================================================================================
+COSTO TOTAL:           139.00
+PRECIO TOTAL:          181.00
+GANANCIA TOTAL:         42.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+92) V00092                             C0164                    2026-06-02                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0017    Sal Central Tipo 03              UNIDAD        ABARROTES      1         7            3            3            0%
+P0071    Cuaderno Pacifico Tipo 10        UNIDAD        OFICINA        1         1            6            6            0%
+P0022    Durazno Central Tipo 01          CAJA100       CONSERVAS    100         5           21           29           33%
+============================================================================================================================================
+COSTO TOTAL:            30.00
+PRECIO TOTAL:           38.00
+GANANCIA TOTAL:          8.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+93) V00093                             C0371                    2026-07-17                         TIENDA              
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0114    Jugo Pacifico Tipo 21            PAQ25         BEBIDAS       25         2            9           11           21%
+P0012    Papel Higienico Norte Tipo 12    UNIDAD        HIGIENE        1        11           29           36            0%
+P0007    Cuaderno Kantu Tipo 18           UNIDAD        OFICINA        1         2           21           26            0%
+P0079    Folder Amazonia Tipo 14          UNIDAD        OFICINA        1         2            8           10            0%
+P0056    Shampoo Mascota Misti Tipo 13    UNIDAD        MASCOTAS       1         9           11           15            0%
+P0120    Shampoo Mascota Sol Tipo 03      UNIDAD        MASCOTAS       1         2           36           54            0%
+P0035    Desinfectante Central Tipo 06    PAQ20         LIMPIEZA      20         2            2            2           13%
+============================================================================================================================================
+COSTO TOTAL:           116.00
+PRECIO TOTAL:          154.00
+GANANCIA TOTAL:         38.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+94) V00094                             C0027                    2026-07-26                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0172    Alcohol Gel Amazonia Tipo 10     UNIDAD        HIGIENE        1         1            5            7            0%
+P0089    Arroz Costa Tipo 19              PAQ20         ABARROTES     20         4           20           29           13%
+P0038    Atun Costa Tipo 16               CAJA48        CONSERVAS     48         5            6            8           23%
+P0185    Azucar Valle Tipo 02             PAQ20         ABARROTES     20         3            4            5           13%
+P0128    Alimento Gato Valle Tipo 20      UNIDAD        MASCOTAS       1        11           31           46            0%
+P0002    Bebida Isotonica Costa Tipo 24   UNIDAD        BEBIDAS        1         7           40           56            0%
+P0142    Sardina Amazonia Tipo 10         UNIDAD        CONSERVAS      1        14           38           55            0%
+P0129    Fideo Sierra Tipo 11             CAJA12        ABARROTES     12         4           44           63           13%
+P0065    Harina Inti Tipo 23              PAQ10         ABARROTES     10         8           17           26            8%
+============================================================================================================================================
+COSTO TOTAL:           205.00
+PRECIO TOTAL:          295.00
+GANANCIA TOTAL:         90.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+95) V00095                             C0151                    2026-02-27                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0041    Lenteja Amazonia Tipo 11         UNIDAD        ABARROTES      1        12           47           70            0%
+P0058    Jugo Central Tipo 15             PAQ10         BEBIDAS       10         3            6            9            8%
+P0157    Caramelo Misti Tipo 23           UNIDAD        SNACKS         1        16           40           56            0%
+============================================================================================================================================
+COSTO TOTAL:            93.00
+PRECIO TOTAL:          135.00
+GANANCIA TOTAL:         42.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+96) V00096                             C0105                    2026-02-10                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0209    Cafe Pacifico Tipo 23            UNIDAD        ABARROTES      1        14           45           53            0%
+P0182    Maiz Dulce Norte Tipo 25         CAJA24        CONSERVAS     24         8           11           15           19%
+P0090    Jugo Inti Tipo 23                UNIDAD        BEBIDAS        1        13           27           34            0%
+P0204    Shampoo Norte Tipo 16            UNIDAD        HIGIENE        1         3            1            1            0%
+P0027    Suavizante Costa Tipo 14         UNIDAD        LIMPIEZA       1        12           14           16            0%
+P0108    Jabon Pacifico Tipo 20           CAJA48        HIGIENE       48         5           10           16           23%
+============================================================================================================================================
+COSTO TOTAL:           108.00
+PRECIO TOTAL:          135.00
+GANANCIA TOTAL:         27.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+97) V00097                             C0044                    2026-06-10                         VENDEDOR            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0106    Te Inti Tipo 11                  UNIDAD        BEBIDAS        1        12            9           14            0%
+P0041    Lenteja Amazonia Tipo 11         PAQ50         ABARROTES     50         7           47           70           26%
+P0034    Agua Central Tipo 04             PAQ20         BEBIDAS       20         4           23           27           13%
+P0128    Alimento Gato Valle Tipo 20      PAQ50         MASCOTAS      50         4           31           46           26%
+P0002    Bebida Isotonica Costa Tipo 24   PAQ20         BEBIDAS       20         1           40           56           13%
+============================================================================================================================================
+COSTO TOTAL:           150.00
+PRECIO TOTAL:          213.00
+GANANCIA TOTAL:         63.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+98) V00098                             C0039                    2026-07-03                         VENDEDOR            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0039    Marcador Inti Tipo 24            PAQ50         OFICINA       50         8            2            2           26%
+============================================================================================================================================
+COSTO TOTAL:             2.00
+PRECIO TOTAL:            2.00
+GANANCIA TOTAL:          0.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+99) V00099                             C0130                    2026-05-28                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0184    Snack Canino Pacifico Tipo 14    CAJA24        MASCOTAS      24         6            6            8           19%
+P0195    Detergente Misti Tipo 04         UNIDAD        LIMPIEZA       1        15           37           56            0%
+P0067    Detergente Central Tipo 02       UNIDAD        LIMPIEZA       1         6           35           47            0%
+P0129    Fideo Sierra Tipo 11             UNIDAD        ABARROTES      1         2           44           63            0%
+P0067    Detergente Central Tipo 02       UNIDAD        LIMPIEZA       1        14           35           47            0%
+P0049    Arroz Costa Tipo 21              UNIDAD        ABARROTES      1        13           36           43            0%
+============================================================================================================================================
+COSTO TOTAL:           193.00
+PRECIO TOTAL:          264.00
+GANANCIA TOTAL:         71.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+100) V00100                             C0177                    2026-08-08                         VENDEDOR            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0154    Bebida Energetica Inti Tipo 02   UNIDAD        BEBIDAS        1        17           11           13            0%
+P0030    Durazno Sierra Tipo 08           UNIDAD        CONSERVAS      1         8           27           35            0%
+P0025    Fideo Kantu Tipo 04              UNIDAD        ABARROTES      1        14           20           24            0%
+P0055    Lapicero Sierra Tipo 21          UNIDAD        OFICINA        1        13           42           56            0%
+============================================================================================================================================
+COSTO TOTAL:           100.00
+PRECIO TOTAL:          128.00
+GANANCIA TOTAL:         28.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+101) V00101                             C0053                    2026-05-07                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0077    Chocolate Sierra Tipo 05         PAQ10         SNACKS        10         4            9           13            8%
+P0200    Alimento Gato Pacifico Tipo 09   UNIDAD        MASCOTAS       1        15           29           35            0%
+P0064    Snack Canino Pacifico Tipo 17    CAJA24        MASCOTAS      24         6            2            3           19%
+============================================================================================================================================
+COSTO TOTAL:            40.00
+PRECIO TOTAL:           51.00
+GANANCIA TOTAL:         11.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+102) V00102                             C0006                    2026-08-13                         TELEFONO            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0011    Lejia Norte Tipo 15              PAQ50         LIMPIEZA      50         6           31           43           26%
+P0183    Folder Inti Tipo 02              UNIDAD        OFICINA        1         5           40           52            0%
+P0204    Shampoo Norte Tipo 16            UNIDAD        HIGIENE        1         6            1            1            0%
+============================================================================================================================================
+COSTO TOTAL:            72.00
+PRECIO TOTAL:           96.00
+GANANCIA TOTAL:         24.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+103) V00103                             C0533                    2026-02-20                         TIENDA              
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0027    Suavizante Costa Tipo 14         UNIDAD        LIMPIEZA       1         9           14           16            0%
+P0018    Gaseosa Sol Tipo 07              CAJA12        BEBIDAS       12         3           47           64           13%
+P0105    Harina Misti Tipo 10             PAQ10         ABARROTES     10         5           26           35            8%
+P0181    Galletas Andes Tipo 14           CAJA48        SNACKS        48         6           22           29           23%
+P0141    Caramelo Andes Tipo 18           UNIDAD        SNACKS         1         9            9           12            0%
+============================================================================================================================================
+COSTO TOTAL:           118.00
+PRECIO TOTAL:          156.00
+GANANCIA TOTAL:         38.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+104) V00104                             C0535                    2026-04-14                         VENDEDOR            
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0095    Papel A4 Sol Tipo 14             UNIDAD        OFICINA        1         9           35           50            0%
+P0115    Suavizante Pacifico Tipo 05      UNIDAD        LIMPIEZA       1         2           11           14            0%
+============================================================================================================================================
+COSTO TOTAL:            46.00
+PRECIO TOTAL:           64.00
+GANANCIA TOTAL:         18.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+105) V00105                             C0531                    2026-01-25                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0188    Papel Higienico Inti Tipo 02     UNIDAD        HIGIENE        1         5           42           60            0%
+P0188    Papel Higienico Inti Tipo 02     PAQ50         HIGIENE       50         8           42           60           26%
+P0105    Harina Misti Tipo 10             UNIDAD        ABARROTES      1        13           26           35            0%
+P0094    Salsa de Tomate Sol Tipo 20      PAQ20         CONSERVAS     20         3           43           51           13%
+============================================================================================================================================
+COSTO TOTAL:           153.00
+PRECIO TOTAL:          206.00
+GANANCIA TOTAL:         53.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+106) V00106                             C0310                    2026-04-25                         WEB                 
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0100    Shampoo Sol Tipo 17              CAJA48        HIGIENE       48         7           13           18           23%
+P0143    Lapicero Sierra Tipo 03          UNIDAD        OFICINA        1         6           40           48            0%
+P0206    Atun Kantu Tipo 17               UNIDAD        CONSERVAS      1         9            3            4            0%
+P0030    Durazno Sierra Tipo 08           CAJA24        CONSERVAS     24         1           27           35           19%
+P0177    Fideo Sol Tipo 14                CAJA12        ABARROTES     12         4           44           67           13%
+============================================================================================================================================
+COSTO TOTAL:           127.00
+PRECIO TOTAL:          172.00
+GANANCIA TOTAL:         45.00
+============================================================================================================================================
+CODIGO DE VENTAS              CODIGO DE CLIENTES            FECHA DE VENTA                CANAL DE VENTA                
+107) V00107                             C0407                    2026-04-09                         TIENDA              
+============================================================================================================================================
+PRODUCTOS COMPRADOS: 
+CODIGO   DESCRIPCION                   PRESENTACION  CATEGORIA  UNID X PRES  CANTIDAD  COSTO UNIT   PRECIO UNIT    DESCUENTO 
+============================================================================================================================================
+P0070    Leche Evaporada Misti Tipo 05    PAQ20         CONSERVAS     20         4           21           28           13%
+P0115    Suavizante Pacifico Tipo 05      CAJA12        LIMPIEZA      12         8           11           14           13%
+P0180    Alcohol Gel Inti Tipo 20         PAQ25         HIGIENE       25         4           41           64           21%
+P0156    Toalla Humeda Amazonia Tipo 24   PAQ25         HIGIENE       25         4           44           55           21%
+============================================================================================================================================
+COSTO TOTAL:           117.00
+PRECIO TOTAL:          161.00
+GANANCIA TOTAL:         44.00
+============================================================================================================================================
