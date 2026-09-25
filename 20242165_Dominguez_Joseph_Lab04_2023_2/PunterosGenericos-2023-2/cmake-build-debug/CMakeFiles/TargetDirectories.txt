@@ -1,0 +1,3 @@
+C:/Users/jdomi/OneDrive/Documentos/A_REPOSITORIO_2026-2/20242165_Dominguez_Joseph_Lab04_2023_2/PunterosGenericos-2023-2/cmake-build-debug/CMakeFiles/PunterosGenericos_2023_2.dir
+C:/Users/jdomi/OneDrive/Documentos/A_REPOSITORIO_2026-2/20242165_Dominguez_Joseph_Lab04_2023_2/PunterosGenericos-2023-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jdomi/OneDrive/Documentos/A_REPOSITORIO_2026-2/20242165_Dominguez_Joseph_Lab04_2023_2/PunterosGenericos-2023-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
