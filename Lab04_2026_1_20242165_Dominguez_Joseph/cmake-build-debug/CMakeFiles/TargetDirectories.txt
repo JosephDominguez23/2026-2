@@ -1,0 +1,3 @@
+C:/Users/jdomi/OneDrive/Documentos/A_REPOSITORIO_2026-2/LABS4/Lab04_2026_1_20242165_Dominguez_Joseph/cmake-build-debug/CMakeFiles/Lab04_2026_1_20242165_Dominguez_Joseph.dir
+C:/Users/jdomi/OneDrive/Documentos/A_REPOSITORIO_2026-2/LABS4/Lab04_2026_1_20242165_Dominguez_Joseph/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jdomi/OneDrive/Documentos/A_REPOSITORIO_2026-2/LABS4/Lab04_2026_1_20242165_Dominguez_Joseph/cmake-build-debug/CMakeFiles/rebuild_cache.dir
