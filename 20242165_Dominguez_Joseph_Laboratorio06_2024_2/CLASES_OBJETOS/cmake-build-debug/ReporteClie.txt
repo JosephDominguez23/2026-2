@@ -1,0 +1,52 @@
+  90367684                            CORONEL CHUMPITAZ HELI                           Villa Maria del Triunfo     13.04   2026.52
+  99774549                          HENRIQUEZ ESPINO BEATRIZ                                         San Borja     17.38   1341.17
+  63640178                   CABRERA CANALES GUILLERMO EDRIC                                 Magdalena del Mar     18.78   1705.38
+  20371464                                  CARO POLO SANDRO                            San Juan de Lurigancho     15.28   636.417
+  35606314                  PORTUGAL BENAVENTE JOHANA GLORIA                                        Chorrillos     11.91   4712.73
+  31284904                            CORREA VIZCARDO MIGUEL                                             Brena     10.07    2851.5
+  32538825                             YOSHINARI RIVERA PAUL                                      Pueblo Libre     11.33   7039.16
+  94683380                          ASMAD ACUNA ANNIE OFELIA                                     Independencia     18.03   1380.62
+  59561864                              CHAVEZ PRADO SILVANA                                 Santiago de Surco      10.3    4403.1
+  22679759                      GORDILLO YINO YVONNE ROSARIO                                        Los Olivos     19.91   1368.02
+  43704548                    VALVERDE BERROCAL RONY GONZALO                                 Magdalena del Mar     10.75    2741.4
+  12484697                           HENRIQUEZ PORTUGAL ALEX                                   Cercado de Lima     15.34   2468.94
+  99891737                            RETAMOSO BARRERA OSCAR                                   Cercado de Lima     18.78         0
+  91187814                          MALDONADO FLORIAN JOHANA                                       Santa Anita     16.89   1665.11
+  81647285                    VILLEGAS PALOMINO DORIS FREYSA                            San Juan de Lurigancho      10.9   3260.79
+  45914393                   MEJIA HUAYANAY CHRISTIAN ALONSO                                         San Borja     17.53   2503.95
+  54815159                             FLORIAN MORALES YDALI                                      Pueblo Libre     11.82   1603.82
+  85395219                                MOYA ARANDA JOHNNY                            San Juan de Lurigancho     18.72   1323.16
+  13731806                        CORTEZ SEGURA CARMELA INES                                             Rimac     13.18         0
+  86988155                   ALAMO PAIRAZAMAN MIGUEL ROBERTO                                       Santa Anita     15.91   2833.92
+  77440060                           CORONADO FIGUEROA JOHAN                                       Santa Anita     15.25   391.291
+  68114999                        RUIZ GORDILLO CAROLA ERIKA                                             Comas     10.51   607.458
+  25062013                     GAVIDIA MENDOZA RONALD JOHNNY                            San Juan de Lurigancho     19.02   2238.04
+  49357767                         PATINO CHUNG BEATRIZ ROSA                              San Martin de Porres     18.33   2260.87
+  51873364                                 SEGURA MALCA RONY                                             Rimac     16.39      4861
+  95656771                     FARFAN FALCON ELIZABETH KARIN                                         Surquillo     16.27   2942.52
+  34697743                          ASTETE RIOS CESAR WILVER                                 Santiago de Surco     11.26   3878.03
+  62126128                       MEREL SALAZAR ANNIE LOURDES                                       Santa Anita     10.76   3005.25
+  80694546                           DIAZ REYES WALTER EDGAR                                         La Molina     14.54   1649.38
+  65912822                            LAU BACA MONICA TERESA                                        Santa Rosa     10.35   3370.84
+  77324146                        FALCON PRECIADO ALEX HENRY                                             Brena     19.55   477.068
+  52313890                       DURAND MEZA WALDEMAR EDGARD                                             Brena     12.45    1843.1
+  36934113                         SALAS URBINA MAGDA CARMEN                                        Los Olivos     18.33   2408.69
+  60543714                  BARRERA MIRANDA ALEXANDER MARTIN                                         San Borja     16.71   3749.05
+  14956687                        LA HAZA CABRERA ALBERTO DE                                          San Luis      10.8      2472
+  59596317                       AYALA VIZCARDO EDGAR MANUEL                                             Rimac     16.21   4426.37
+  93231760                     CHUMPITAZ ALCOCER ANGEL ERICK                                        Los Olivos     19.47   3626.43
+  67277765                        CORTEZ SEGURA CARMELA INES                                         Surquillo     17.74   649.443
+  65278099                    HIJAR PAIRAZAMAN JENNY DELICIA                           Villa Maria del Triunfo     16.85   1633.73
+  81334083                          CORONADO FIGUEROA JOHAN                                          San Borja     16.77    564.05
+  49573578                        RUIZ GORDILLO CAROLA ERIKA                                       El Agustino     12.43   1093.75
+  31526241                    CALIXTO TOMASICHE MONICA DORIS                                             Brena      17.1   612.631
+  80740735                      ANTEZANO SEGURA TERESA DELIA                                             Brena     13.64   1144.87
+  40711531                                SEGURA MALCA RONY                                        Ate Vitarte     16.17   526.285
+  31712526                      SUCHERO EPIQUEN EDGAR JAVIER                                       El Agustino     18.91   294.843
+  32352361                          ASTETE RIOS CESAR WILVER                              San Martin de Porres     18.44   415.548
+  51808448                       MEREL SALAZAR ANNIE LOURDES                                             Rimac     16.35   385.543
+  56100384                            LAU BACA MONICA TERESA                                         La Molina        19   1359.83
+  22303979                        FALCON PRECIADO ALEX HENRY                                 Villa El Salvador     19.24   504.265
+  51108372                    DE LA CUBA JUGO LUCERO DELICIA                                 Magdalena del Mar     15.01   75.9811
+  38986512                       DURAND MEZA WALDEMAR EDGARD                                         La Molina     15.11   559.595
+  86297512                          VILLEGAS LEIVA FELICITA                                    Cercado de Lima     16.19   1275.92

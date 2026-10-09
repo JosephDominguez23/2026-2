@@ -1,0 +1,3 @@
+C:/Users/jdomi/OneDrive/Documentos/A_REPOSITORIO_2026-2/LABS5/20242165_Dominguez_Joseph_Laboratorio06_2024_2/CLASES_OBJETOS/cmake-build-debug/CMakeFiles/CLASES_OBJETOS.dir
+C:/Users/jdomi/OneDrive/Documentos/A_REPOSITORIO_2026-2/LABS5/20242165_Dominguez_Joseph_Laboratorio06_2024_2/CLASES_OBJETOS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jdomi/OneDrive/Documentos/A_REPOSITORIO_2026-2/LABS5/20242165_Dominguez_Joseph_Laboratorio06_2024_2/CLASES_OBJETOS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
