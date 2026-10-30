@@ -1,0 +1,32 @@
+============================================================
+REPORTE DE CARTILLAS - VETERINARIA HUELLITAS Y PLUMITAS
+============================================================
+DNI : 11223344
+Mascota : Michi (Gato, 4 años, 5.10 kg)
+Vacunas:
+ - Triple Felina : 20250301 (1.00 ml, CMVP-6002)
+Mascota : Dali (Gato, 3 años, 4.20 kg)
+Vacunas:
+------------------------------------------------------------
+DNI : 12345678
+Mascota : Firulais (Perro, 3 años, 12.50 kg)
+** ALERTA: cartilla con registros duplicados**
+Vacunas:
+ - Rabia : 20250110 (1.50 ml, CMVP-1001)
+ - Parvovirus : 20250315 (2.00 ml, CMVP-1001)
+ - Moquillo : 20250420 (1.00 ml, CMVP-6002)
+ - Moquillo : 20250420 (1.00 ml, CMVP-6002)
+Mascota : Luna (Gato, 1 años, 4.20 kg)
+Vacunas:
+ - Triple Felina : 20250205 (1.00 ml, CMVP-6002)
+ - Leucemia Felina : 20250410 (1.50 ml, CMVP-6002)
+------------------------------------------------------------
+DNI : 87654321
+Mascota : Piolin (Canario, 2 años, 0.05 kg)
+Vacunas:
+ - Polivacuna Aves : 20250112 (0.50 ml, CMVP-1001)
+Mascota : Rocky (Perro, 5 años, 28.00 kg)
+Vacunas:
+ - Rabia : 20250208 (1.50 ml, CMVP-5003)
+ - Bordetella : 20250322 (1.00 ml, CMVP-5003)
+============================================================

@@ -1,0 +1,3 @@
+C:/Users/jdomi/OneDrive/Documentos/A_REPOSITORIO_2026-2/LABS6/20242165_Dominguez_Joseph_Laboratorio05_2026_1/OBEJTOS_SOBRECARGA/cmake-build-debug/CMakeFiles/OBEJTOS_SOBRECARGA.dir
+C:/Users/jdomi/OneDrive/Documentos/A_REPOSITORIO_2026-2/LABS6/20242165_Dominguez_Joseph_Laboratorio05_2026_1/OBEJTOS_SOBRECARGA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jdomi/OneDrive/Documentos/A_REPOSITORIO_2026-2/LABS6/20242165_Dominguez_Joseph_Laboratorio05_2026_1/OBEJTOS_SOBRECARGA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
