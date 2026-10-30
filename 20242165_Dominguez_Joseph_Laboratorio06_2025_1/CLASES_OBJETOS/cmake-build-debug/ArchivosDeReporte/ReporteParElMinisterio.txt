@@ -1,0 +1,821 @@
+                          MINISTERIO DE TRANSPORTE
+                             TABLA DE INFRACCIONES
+2007         425.23  Grave                         No conducir por el carril de extremo derecho de la calzada un vehiculo de transporte público de pasajeros o de carga.
+1029         586.45  Muy grave                     Conducir un vehiculo especial que no se ajuste a las exigencias reglamentarias sin la autorizacion correspondiente.
+1018         606.11  Muy grave                     Desobedecer las indicaciones sobre el transito que ordene el efectivo de la Policia Nacional del Perú asignado al control del transito.
+3001         214.55  Leve                          Dejar mal estacionado el vehiculo en lugares permitidos.
+2072         389.95  Grave                         Utilizar un vehiculo que tenga instalados los dispositivos electronicos permitidos obstaculizando la visibilidad del conductor.
+2065         378.40  Grave                         Utilizar senales audibles o visibles iguales o similares a las que utilizan los vehiculos de emergencia o vehiculos oficiales.
+2052         423.87  Grave                         Estacionar en los terminales o estaciones de ruta fuera de los estacionamientos externos determinados por la Autoridad competente.
+2047         359.93  Grave                         Estacionar a menos de veinte (20) metros de un cruce ferroviario a nivel.
+2031         365.30  Grave                         Circular transportando personas en la parte exterior de la carroceria o permitir que sobresalga parte del cuerpo de personas.
+1012         631.29  Muy grave                     No detenerse al aproximarse a un vehiculo de transporte escolar debidamente identificado que esta recogiendo o dejando escolares.
+1036         640.08  Muy grave                     Circular produciendo ruidos que superen los limites maximos permisibles.
+2039         394.23  Grave                         No reducir la velocidad al ingresar a un túnel o cruzar un puente intersecciones o calles congestionadas.
+2010         411.19  Grave                         Incumplir las disposiciones sobre el uso de las vias de transito rapido y/o de acceso restringido.
+2035         379.06  Grave                         Circular transportando cargas que sobrepasen las dimensiones de la carroceria o que se encuentren ubicadas fuera de la misma.
+1025         631.82  Muy grave                     Detenerse para cargar o descargar mercancias en la calzada y/o en los lugares que interrumpan la circulacion.
+1026         637.20  Muy grave                     Estacionar o detener el vehiculo en el carril de circulacion en carreteras o caminos donde existe berma lateral.
+1017         556.26  Muy grave                     Cruzar una interseccion o girar estando el semaforo con luz roja y no existiendo la indicacion en contrario
+1015         570.44  Muy grave                     Circular produciendo contaminacion en un indice superior a los limites maximos permisibles de emision de gases contaminantes.
+1038         525.79  Muy grave                     Transportar carga sin los dispositivos de sujecion o seguridad establecidos.
+1013         650.26  Muy grave                     Conducir un vehiculo con neumatico(s) cuya banda de rodadura presente desgaste inferior al establecido en el Reglamento Nacional de Vehiculos.
+1006        1221.06  Muy grave                     Estacionar en las curvas puentes túneles pasos a desnivel en cambios de rasante pendientes y cruces de ferrocarril.
+1046         658.70  Muy grave                     Obstruir la ciclovia
+2030         433.12  Grave                         Circular en forma desordenada o haciendo maniobras peligrosas
+3002         250.32  Leve                          Estacionar un vehiculo en zonas de parqueo destinadas a vehiculos que transportan a personas con discapacidad o conducidos por estos.
+1033         624.62  Muy grave                     Usar las placas de exhibicion rotativa o transitoria fuera del plazo horario o ruta establecida o cuando esta ha caducado o ha sido invalidada.
+2064         371.48  Grave                         Incumplir con devolver las placas de exhibicion rotativa o transitoria dentro de los plazos establecidos.
+2062         409.30  Grave                         Circular con placas ilegibles o sin iluminacion que impida su lectura a traves de medios electronicos.
+2018         398.27  Grave                         Conducir un vehiculo sin que ambas manos esten sobre el volante de direccion excepto cuando es necesario realizar los cambios de velocidad.
+3006         220.25  Leve                          Utilizar la bocina para llamar la atencion en forma innecesaria
+2063         431.38  Grave                         No llevar las placas de rodaje en el lugar que corresponde.
+2069         359.96  Grave                         Detener el vehiculo sobre la demarcacion en el pavimento de la senal No bloquear cruce
+2051         418.99  Grave                         Estacionar un vehiculo a una distancia menor a un metro de la parte delantera o posterior de otro ya estacionado.
+1043        6436.95  Muy grave                     Circular interrumpir y/o impedir el transito en situaciones de desastre natural o emergencia.
+2059         396.39  Grave                         No respetar las senales que rigen el transito cuyo incumplimiento no se encuentre tipificado en otra infraccion.
+2054         396.09  Grave                         Estacionar un vehiculo en vias con pendientes pronunciadas sin asegurar su inmovilizacion.
+2009         368.89  Grave                         Retroceder salvo casos indispensables para mantener libre la circulacion para incorporarse a ella o para estacionar el vehiculo.
+1001        4791.53  Muy grave                     Conducir con presencia de alcohol en la sangre o bajo los efectos de estupefacientes y que haya participado en un accidente de transito.
+2029         369.96  Grave                         No llevar puesto el cinturon de seguridad y/o permitir que los ocupantes del vehiculo no lo utilicen.
+1009        1316.30  Muy grave                     Conducir un vehiculo con cualquiera de sus sistemas de direccion frenos suspension o luces en mal estado previa inspeccion tecnica vehicular.
+2017         377.41  Grave                         Conducir vehiculos que tengan lunas o vidrios polarizados que impidan la visibilidad del interior del vehiculo sin la autorizacion correspondiente.
+2067         429.89  Grave                         No ceder el paso a otros vehiculos que tienen preferencia.
+1044         270.72  Muy grave                     Conducir un vehiculo de la categoria L5 de la clasificacion vehicular que no cuente con el certificado de aprobacion de inspeccion tecnica vehicular
+1016         663.26  Muy grave                     Circular en sentido contrario al transito autorizado
+2056         417.99  Grave                         Abandonar el vehiculo en la via pública.
+1002        2310.06  Muy grave                     Conducir con presencia de alcohol en la sangre narcoticos y/o alucinogenos por negarse al mismo.
+1048         544.44  Muy grave                     Efectuar maniobras y/o acciones generando danos materiales a la infraestructura o garitas de pago de peaje
+1042         602.86  Muy grave                     Conducir un vehiculo con la licencia de conducir vencida
+2001         368.08  Grave                         Adelantar o sobrepasar en forma indebida a otro vehiculo
+2019         425.21  Grave                         Conducir un vehiculo usando algún dispositivo movil u objeto portatil que implique dejar de conducir con ambas manos sobre el volante de direccion.
+2073         385.41  Grave                         Adelantar o sobrepasar a la bicicleta u otros ciclos o al VMP incumpliendo la obligacion de efectuar dicha maniobra por el carril de la izquierda.
+1045         546.13  Muy grave                     No respetar el derecho preferente de paso del/de la ciclista o del/ de la conductor/a del VMP
+2022         356.97  Grave                         Conducir un vehiculo sin espejos retrovisores.
+2033         428.40  Grave                         Circular en las vias publicas terrestres en donde haya una senal de ZONA DE NEBLINA sin tener las luces intermitentes de emergencia encendidas.
+1037         628.38  Muy grave                     Voltear en U sobre la misma calzada en las curvas puentes pasos a desnivel vias expresas túneles cima de cuesta cruce ferroviario a nivel.
+2014         399.25  Grave                         Tener la puerta capot o maletera del vehiculo abierta cuando el vehiculo esta en marcha.
+3004         182.63  Leve                          Utilizar el carril de giro a la izquierda para continuar la marcha en cualquier direccion que no sea la especificamente senalada.
+1014         538.95  Muy grave                     No detenerse al llegar a un cruce ferroviario a nivel o reiniciar la marcha sin haber comprobado que no se aproxima tren o vehiculo ferroviario
+2070         387.82  Grave                         Circular por las vias públicas terrestres donde se encuentran instaladas garitas de peaje sin pagar el monto del peaje.
+2040         352.29  Grave                         Transitar lentamente por el carril de la izquierda causando congestion o riesgo o rapidamente por el carril de la derecha.
+2011         446.98  Grave                         Circular estacionar o detenerse sobre una isla de encauzamientoo divisoria del transito bermas aceras pasos peatonales o rampas para minusvalidos.
+1019         523.54  Muy grave                     Conducir vehiculos sin cumplir con las restricciones que consigna la Licencia de Conducir.
+1039         540.32  Muy grave                     Conducir y ocasionar un accidente de transito con danos personales inobservando las normas de transito dispuestas en el presente Reglamento.
+2066         429.96  Grave                         Conducir un vehiculo cuyas caracteristicas registrables o condiciones tecnicas han sido modificadas atentando contra la seguridad de los usuarios.
+1032         592.92  Muy grave                     Deteriorar intencionalmente adulterar destruir o sustraer las Placas de exhibicion rotativa o transitoria .
+2071         362.03  Grave                         Utilizar mientras se conduce el vehiculo cualquier dispositivo electronico que reproduzca imagenes o videos con fines de entretenimiento visual.
+3007         190.27  Leve                          Hacer uso de bocinas de descarga de aire comprimido en el ambito urbano.
+2068         391.39  Grave                         Seguir a los vehiculos de emergencia y vehiculos oficiales para avanzar mas rapidamente.
+1035         628.40  Muy grave                     Circular conducir u operar maquinas amarillas o verdes por las vias públicas terrestres.
+1047         520.07  Muy grave                     Realizar la circulacion por rutas que no forman parte de caminos vias urbanas o del Sistema Nacional de Carreteras evadiendo el pago del peaje
+3005         200.49  Leve                          Arrojar depositar o abandonar objetos o sustancias en la via pública que dificulten la circulacion.
+2008         379.12  Grave                         No utilizar el carril derecho para recoger o dejar pasajeros o carga.
+1024         587.10  Muy grave                     Estacionar interrumpiendo totalmente el transito
+1031         567.23  Muy grave                     Conducir un vehiculo sin contar con la poliza del Seguro Obligatorio de Accidentes de Transito.
+2037         378.99  Grave                         Usar luces altas en vias urbanas o hacer mal uso de las luces.
+2003         410.24  Grave                         Detener el vehiculo bruscamente sin motivo.
+2046         388.85  Grave                         Estacionar a menos de tres (3) metros de las puertas de establecimientos educacionales teatros iglesias y hoteles.
+1003        2439.00  Muy grave                     Conducir un vehiculo automotor sin tener licencia de conducir o permiso provisional.
+1020         801.96  Muy grave                     Superar el limite maximo de velocidad establecido hasta en 10 km/h adicionales
+1040         554.21  Muy grave                     Conducir un vehiculo para el servicio de transporte público y ocasionar un accidente de transito con danos personales.
+2055         436.61  Grave                         Desplazar o empujar un vehiculo bien estacionado con el proposito de ampliar un espacio o tratar de estacionar otro vehiculo.
+2041         440.60  Grave                         Aumentar la velocidad cuando es alcanzado por otro vehiculo que tiene la intencion de sobrepasarlo o adelantarlo.
+2004         416.07  Grave                         No detenerse antes de la linea de parada o no respetar el derecho de paso del peaton o ciclista.
+2002         354.90  Grave                         No hacer senales ni tomar las precauciones para girar voltear en U pasar de un carril de la calzada a otro o detener el vehiculo
+2061         403.13  Grave                         Conducir un vehiculo sin tener puesto el casco de seguridad o anteojos protectores en caso de no tener parabrisas.
+1034         652.49  Muy grave                     Utilizar las placas de exhibicion rotativa o transitoria en vehiculos a los que no se encuentren asignadas.
+2015         398.94  Grave                         No utilizar las luces intermitentes de emergencia de un vehiculo cuando se detiene por razones de fuerza mayor u obstaculizando el transito.
+2044         374.91  Grave                         Estacionar frente a la entrada o salida de garajes estacionamientos públicos o en las salidas de salas espectaculos en funcionamiento.
+2024         390.26  Grave                         Conducir un vehiculo del servicio de transporte público de pasajeros con personas de pie si la altura interior del vehiculo no supera a 1 80 metros.
+2012         442.17  Grave                         Girar estando el semaforo con luz roja y flecha verde sin respetar el derecho preferente de paso de los peatones
+1022        2379.44  Muy grave                     Superar el limite maximo de velocidad establecido establecido en mas de 30 km/h adicionales
+2042         398.23  Grave                         Estacionar el vehiculo en zonas prohibidas o rigidas senalizadas o sin las senales de seguridad reglamentarias en caso de emergencia.
+2074         396.96  Grave                         Abrir o dejar abierta la puerta o capot de un vehiculo automotor dificultando la circulacion de la bicicleta u otros ciclos o del VMP
+2016         414.10  Grave                         Conducir un vehiculo por una via en la cual no esta permitida la circulacion o sobre mangueras contra incendios
+1021        1183.65  Muy grave                     Superar el limite maximo de velocidad establecido establecido en mas de 10 km/h hasta en 30 km/h adicionales
+2053         379.79  Grave                         Estacionar un vehiculo automotor por la noche en lugares donde por la falta de alumbrado público se impide su visibilidad.
+2028         404.47  Grave                         Conducir un vehiculo cuya carga o pasajeros obstruya la visibilidad de los espejos laterales.
+1010         588.93  Muy grave                     Abastecer de combustible un vehiculo del servicio de transporte público de pasajeros con personas a bordo del vehiculo.
+2027         344.75  Grave                         Conducir un vehiculocon la salida del tubo de escape en la parte lateral derecha.
+3003         197.91  Leve                          Abrir o dejar abierta la puerta de un vehiculo estacionado dificultando la circulacion vehicular.
+2034         371.82  Grave                         Circular por la ciclovia
+2023         436.77  Grave                         Conducir un vehiculo cuando llueve llovizne o garúe sin tener operativo el sistema de limpiaparabrisas.
+1023         988.72  Muy grave                     No respetar el limite minimo de velocidad establecido
+2005         414.66  Grave                         No mantener una distancia suficiente razonable y prudente de acuerdo al tipo de vehiculo y la via por la que se conduce.
+2036         391.76  Grave                         Remolcar vehiculos sin las medidas de seguridad.
+2020         355.07  Grave                         Conducir un vehiculo que carezca de vidrios de seguridado que se encuentren deteriorado o con objetos que impidan la visibilidad del conductor.
+2025         433.04  Grave                         Conducir un vehiculo con el motor en punto neutro o apagado.
+1004        4337.78  Muy grave                     Conducir vehiculos estando la licencia de conducir retenida suspendida o estando inhabilitado para obtener licencia de conducir.
+2049         389.89  Grave                         Estacionar en lugar que afecte la operatividad del servicio de transporte público de pasajeros o carga o que afecte la seguridad del transito.
+1007        1150.20  Muy grave                     Participar en competencias de velocidad en eventos no autorizados.
+1011         567.15  Muy grave                     Conducir vehiculos sin parachoque.
+2006         364.18  Grave                         No ubicar el vehiculo con la debida anticipacion en el carril donde va efectuar el giro o volteo.
+1041         617.43  Muy grave                     Conducir y ocasionar un accidente de transito con lesiones graves o muerte inobservando las normas de transito dispuestas en el presente Reglamento.
+2038         444.70  Grave                         Compartir el asiento de conducir con otra persona animal o cosa.
+2045         420.91  Grave                         Estacionar a una distancia menor de cinco metros de una bocacalle de las entradas centros de asistencia medica bomberos o de hidrantes.
+2013         378.46  Grave                         Conducir un vehiculo con mayor número de personas al número de asientos senalado en la Tarjeta de Identificacion Vehicular
+2043         424.99  Grave                         Estacionar o detener el vehiculo sobre la linea demarcatoria de interseccion dentro de estas o en el crucero peatonal (paso peatonal)
+1030        2799.88  Muy grave                     Conducir un vehiculo que no cuente con el certificado de aprobacion de inspeccion tecnica vehicular.
+2060         436.57  Grave                         No presentar la Tarjeta de Identificacion Vehicular; la Licencia de Conducir y/o el Documento de Identidad.
+1027         646.55  Muy grave                     Circular sin placas de rodaje o sin el permiso correspondiente
+2021         404.64  Grave                         Conducir un vehiculo que no cuenta con las luces o dispositivos retrorreflectivos previstos en los reglamentos pertinentes
+1028         585.46  Muy grave                     No dar preferencia de paso a los vehiculos de emergencia y vehiculos oficiales cuando hagan uso de sus senales audibles y visibles
+1008        1159.22  Muy grave                     Permitir a un menor de edad la conduccion de un vehiculo automotor sin autorizacion o permiso provisional.
+2058         361.03  Grave                         Recoger o dejar pasajeros fuera de los paraderos de ruta autorizados cuando existan.
+2026         366.43  Grave                         Conducir un vehiculo sin portar el Certificado SOAT fisico excepto que se cuente con certificado electronico.
+2048         365.76  Grave                         Estacionar en zonas no permitidas por la autoridad competente a menos de diez (10) metros de un cruce peatonal o de un paradero de buses.
+2032         361.87  Grave                         Circular en las vias publicas urbanas por la noche sin tener encendido el sistema de luces reglamentarias.
+2057         429.10  Grave                         Utilizar la via pública para efectuar reparaciones salvo casos de emergencia.
+1005        2651.23  Muy grave                     Conducir un vehiculo con Licencia de Conducir cuya clase o categoria no corresponde al vehiculo que conduce.
+2050         444.75  Grave                         Estacionar un omnibus microbus camion remolque volquete o furgon en en vias públicas de zona urbana.
+ RELACION DE EMPRESAS CON INFRACCIONES DE TRANSITO
+  13219606  Rodriguez Moreno Blanca Ofelia                    P201-291            M312-270            M312-270            
+M312-270                  3123           1038         525.00                 20220908
+P201-291                  2922           1048         544.00                 20220412
+P201-291                  2823           1008        1159.00                 20230803
+P201-291                  2421           2066         429.00                 20230405
+P201-291                  2724           1030        2799.00                 20240817
+M312-270                  3120           2074         396.00                 20250203
+  75348522  Lozada Forzani Delia                              G113-951            G841-644            P310-575            G938-356            G744-786            
+P310-575                  2820           3007         190.00                 20200911
+G113-951                  3120           2064         371.00                 20210121
+G744-786                  2122           2065         378.00                 20250331
+G113-951                  3023           2018         398.00                 20240823
+G841-644                  3021           1029         586.00                 20211215
+G113-951                  3023           1010         588.00                 20210826
+G744-786                  2620           3007         190.00                 20241019
+G841-644                  2724           2005         414.00                 20240929
+G744-786                  2920           2005         414.00                 20201022
+P310-575                  3221           3003         197.00                 20220302
+P310-575                  3223           2063         431.00                 20240324
+G938-356                  2322           1030        2799.00                 20220426
+G841-644                  3220           2056         417.00                 20210123
+G113-951                  2224           1031         567.00                 20240417
+P310-575                  2723           2044         374.00                 20230907
+G938-356                  2822           2047         359.00                 20230806
+G744-786                  2524           2007         425.00                 20240524
+G841-644                  2324           2044         374.00                 20240611
+G938-356                  2820           3005         200.00                 20220813
+G841-644                  3221           2053         379.00                 20211218
+G744-786                  2920           2022         356.00                 20201202
+G113-951                  2423           2011         446.00                 20230502
+P310-575                  3023           1005        2651.00                 20231117
+P310-575                  2322           2064         371.00                 20220406
+G744-786                  2224           2059         396.00                 20200927
+G938-356                  2920           2062         409.00                 20240122
+  81799482  Cerna Cerna Cinthia                               G605-765            M359-944            G592-689            M561-874            G635-752            
+G592-689                  2420           2011         446.00                 20200418
+G592-689                  3123           2030         433.00                 20231225
+G592-689                  2624           2028         404.00                 20220514
+M561-874                  3122           2021         404.00                 20230106
+G605-765                  2121           1020         801.00                 20241129
+G592-689                  3022           1027         646.00                 20221103
+M561-874                  2324           3003         197.00                 20200719
+M359-944                  2422           2007         425.00                 20220711
+M561-874                  2523           2045         420.00                 20230527
+G605-765                  2120           2002         354.00                 20211125
+G592-689                  2121           1024         587.00                 20210207
+G635-752                  2624           1014         538.00                 20240717
+G592-689                  3021           2043         424.00                 20211215
+G592-689                  2521           1041         617.00                 20210301
+M359-944                  2520           2011         446.00                 20200718
+M561-874                  2823           1018         606.00                 20230902
+M561-874                  2923           1046         658.00                 20250325
+G592-689                  2322           2035         379.00                 20230627
+G592-689                  3123           2073         385.00                 20230115
+M359-944                  3220           1028         585.00                 20230825
+  87282766  Suarez Chang Gloria                               M440-802            
+M440-802                  2520           2021         404.00                 20221114
+M440-802                  3023           2056         417.00                 20231231
+M440-802                  3123           1010         588.00                 20231227
+M440-802                  3020           2029         369.00                 20201107
+M440-802                  3021           1029         586.00                 20201107
+  90467829  Iparraguirre Perez Nicolas                        P985-495            G189-507            P863-768            M844-240            G600-343            
+P863-768                  2821           2025         433.00                 20250126
+G600-343                  2724           2063         431.00                 20241014
+P863-768                  3021           1034         652.00                 20220118
+M844-240                  2621           1014         538.00                 20210724
+P863-768                  2423           2070         387.00                 20210902
+P985-495                  3221           2059         396.00                 20220124
+G600-343                  2223           1010         588.00                 20221126
+G189-507                  3221           3004         182.00                 20220323
+G189-507                  2820           1020         801.00                 20201016
+M844-240                  2423           2007         425.00                 20230607
+G600-343                  2420           2018         398.00                 20230808
+G600-343                  2921           2054         396.00                 20211121
+P863-768                  2521           2033         428.00                 20210728
+P985-495                  2622           2050         444.00                 20231221
+G600-343                  2120           1004        4337.00                 20200120
+G189-507                  2222           2003         410.00                 20230803
+M844-240                  3224           1004        4337.00                 20250226
+P863-768                  2621           2053         379.00                 20210821
+P863-768                  2324           2056         417.00                 20240613
+P863-768                  2924           2013         378.00                 20240122
+  47528229  Saavedra Gonzales Wilmer                          P325-365            M466-711            
+M466-711                  2322           2002         354.00                 20220531
+P325-365                  2125           1044         270.00                 20250228
+P325-365                  2722           1019         523.00                 20210524
+M466-711                  2820           2024         390.00                 20201118
+P325-365                  3123           2042         398.00                 20231126
+P325-365                  2224           2038         444.00                 20240228
+M466-711                  2621           1014         538.00                 20210901
+P325-365                  2924           2003         410.00                 20240925
+M466-711                  2621           2056         417.00                 20210730
+M466-711                  3123           2042         398.00                 20230208
+P325-365                  2122           1017         556.00                 20220306
+M466-711                  3124           1001        4791.00                 20200927
+  87495937  Morales Pasquel Karin Maribel                     G329-867            
+G329-867                  2520           2036         391.00                 20230515
+G329-867                  3122           1014         538.00                 20201122
+G329-867                  2921           2015         398.00                 20220221
+G329-867                  2223           2030         433.00                 20230427
+  81485316  Justino Martinez Enrique                          P486-917            M500-707            G156-830            M774-204            G710-594            
+M500-707                  2620           1019         523.00                 20200906
+M500-707                  2324           1025         631.00                 20250331
+G156-830                  2522           2029         369.00                 20220713
+M774-204                  3024           1008        1159.00                 20241129
+M774-204                  2621           1011         567.00                 20210716
+P486-917                  2824           2049         389.00                 20241019
+P486-917                  2721           2039         394.00                 20240306
+M774-204                  2125           2037         378.00                 20250207
+G710-594                  2220           2049         389.00                 20200517
+M774-204                  2423           2033         428.00                 20230702
+M500-707                  2421           2021         404.00                 20210420
+G156-830                  2322           2060         436.00                 20220330
+G156-830                  3121           2060         436.00                 20220221
+P486-917                  2425           1044         270.00                 20220624
+M774-204                  2922           1008        1159.00                 20241218
+M774-204                  2222           2043         424.00                 20230908
+P486-917                  3220           2048         365.00                 20230122
+  79766395  Fuentes Escalante Patricia Elizabeth              G485-562            P195-859            G763-950            
+P195-859                  2621           3003         197.00                 20210121
+P195-859                  2124           1029         586.00                 20230210
+G485-562                  2324           2002         354.00                 20220514
+G485-562                  2120           1017         556.00                 20200318
+G763-950                  2520           2043         424.00                 20200719
+G485-562                  2221           2007         425.00                 20210413
+G763-950                  2122           1007        1150.00                 20220219
+G485-562                  2522           1007        1150.00                 20220729
+G485-562                  2422           2039         394.00                 20230518
+P195-859                  2723           2033         428.00                 20230412
+G763-950                  2124           1024         587.00                 20240407
+G485-562                  2921           2023         436.00                 20211115
+G485-562                  2723           1005        2651.00                 20230908
+P195-859                  2120           1022        2379.00                 20230919
+  82031355  Egusquiza/Berrocal/Doris-Nancy                    P386-900            M599-949            
+P386-900                  2622           1032         592.00                 20220728
+  73818744  Fuentes Gamarra Hugo                              G662-512            G393-114            P251-666            G938-342            
+G938-342                  3224           2061         403.00                 20250126
+G662-512                  2321           1016         663.00                 20240919
+G938-342                  3123           2044         374.00                 20231225
+P251-666                  3120           1018         606.00                 20201216
+G393-114                  2220           2003         410.00                 20200513
+G938-342                  2624           2053         379.00                 20240713
+G662-512                  2124           2005         414.00                 20211009
+P251-666                  2522           1033         624.00                 20200812
+G938-342                  2420           2032         361.00                 20200528
+P251-666                  2820           1024         587.00                 20201122
+G938-342                  2121           2041         440.00                 20250207
+G393-114                  2323           1031         567.00                 20230405
+G393-114                  2121           2067         429.00                 20210408
+G393-114                  2623           2021         404.00                 20230803
+G393-114                  3020           2029         369.00                 20201030
+G393-114                  2723           2069         359.00                 20210520
+G393-114                  3222           2008         379.00                 20230117
+G938-342                  2120           1033         624.00                 20200328
+P251-666                  2423           3002         250.00                 20230502
+P251-666                  2420           2039         394.00                 20240613
+G938-342                  2422           2055         436.00                 20211231
+  88167677  Prado Vera Juan                                   G264-957            G325-333            P665-969            M366-914            M435-175            
+P665-969                  2420           3001         214.00                 20200614
+G264-957                  2424           1037         628.00                 20240516
+P665-969                  2923           2052         423.00                 20231206
+G264-957                  2420           2037         378.00                 20220508
+G264-957                  3221           1044         270.00                 20230129
+G325-333                  2220           2012         442.00                 20200425
+M366-914                  2221           2031         365.00                 20211125
+M435-175                  2125           2025         433.00                 20230826
+G264-957                  2124           2074         396.00                 20240306
+G264-957                  3121           2020         355.00                 20200330
+G325-333                  2524           2060         436.00                 20240528
+M366-914                  2720           2038         444.00                 20240611
+P665-969                  3121           3003         197.00                 20220101
+P665-969                  2820           2063         431.00                 20201112
+M435-175                  3221           2013         378.00                 20220109
+P665-969                  2125           2010         411.00                 20220109
+M435-175                  2124           1023         988.00                 20200528
+M366-914                  2321           1042         602.00                 20200528
+M366-914                  3223           2066         429.00                 20210811
+P665-969                  3021           1040         554.00                 20211101
+P665-969                  2821           1004        4337.00                 20210912
+G264-957                  2920           1005        2651.00                 20201028
+G325-333                  3222           2045         420.00                 20221219
+M435-175                  2723           2052         423.00                 20230806
+G264-957                  3124           1016         663.00                 20241218
+G325-333                  2325           2012         442.00                 20250504
+G264-957                  2324           2025         433.00                 20230115
+G325-333                  2820           3007         190.00                 20201013
+M435-175                  2123           2009         368.00                 20230206
+P665-969                  3021           2054         396.00                 20220122
+M366-914                  2921           2007         425.00                 20230403
+M435-175                  3223           2022         356.00                 20240122
+G325-333                  2521           2052         423.00                 20250203
+  73972114  Avila Martel Jaime Manuel                         M862-577            G657-925            M646-319            M655-864            P255-643            
+M862-577                  2724           1010         588.00                 20250411
+G657-925                  2122           3004         182.00                 20230202
+M862-577                  2620           2073         385.00                 20241129
+P255-643                  3224           2071         362.00                 20211213
+G657-925                  2820           1003        2439.00                 20201006
+P255-643                  3023           1015         570.00                 20231110
+M862-577                  3224           2051         418.00                 20250116
+M646-319                  2522           2004         416.00                 20241002
+M862-577                  2423           1007        1150.00                 20200812
+M655-864                  3221           1014         538.00                 20220306
+M655-864                  3220           2043         424.00                 20210207
+P255-643                  3221           1012         631.00                 20220307
+P255-643                  2822           2059         396.00                 20240426
+G657-925                  2225           1009        1316.00                 20210907
+M655-864                  2822           1038         525.00                 20241009
+M655-864                  2220           2060         436.00                 20240504
+M862-577                  2325           2050         444.00                 20250310
+G657-925                  3024           2038         444.00                 20241216
+G657-925                  2225           2021         404.00                 20240413
+M646-319                  2325           1002        2310.00                 20250407
+P255-643                  2225           2038         444.00                 20250504
+G657-925                  2223           2051         418.00                 20211231
+  89314225  Rios Durand Carlos Edilberto                      P355-270            G760-721            P152-838            G256-432            M288-737            
+G760-721                  3220           2022         356.00
+G760-721                  2122           1020         801.00                 20241001
+G256-432                  2923           2008         379.00                 20231003
+G256-432                  2923           1009        1316.00                 20231117
+P152-838                  3021           2013         378.00                 20241227
+P152-838                  2724           1026         637.00                 20240725
+P355-270                  2820           3007         190.00                 20200912
+P355-270                  2225           1028         585.00                 20250318
+M288-737                  2120           2036         391.00                 20200330
+M288-737                  3223           2040         352.00                 20240306
+P152-838                  2425           1034         652.00                 20210408
+P355-270                  2724           1006        1221.00                 20210408
+P355-270                  2723           3006         220.00                 20231118
+P355-270                  2622           2030         433.00                 20231118
+P152-838                  3220           1025         631.00                 20210130
+M288-737                  3024           1038         525.00                 20241023
+P152-838                  2123           1043        6436.00                 20230426
+G256-432                  2220           3004         182.00                 20200409
+G760-721                  2422           3001         214.00                 20220507
+M288-737                  2923           2067         429.00                 20220507
+P152-838                  3220           2044         374.00                 20200927
+G760-721                  2522           1032         592.00                 20200927
+G256-432                  2225           2054         396.00                 20250221
+G760-721                  2623           3003         197.00                 20230719
+  82870470  Sedano Retamoso Elia Yolanda                      P478-603            P516-487            
+P478-603                  2724           1018         606.00                 20240921
+P516-487                  2424           2051         418.00                 20240516
+P478-603                  3221           2012         442.00                 20230202
+P478-603                  2524           1019         523.00                 20241019
+P478-603                  2724           2023         436.00                 20240920
+P516-487                  2824           2049         389.00                 20220306
+P478-603                  3220           1030        2799.00                 20210302
+P516-487                  2824           1021        1183.00                 20241026
+P478-603                  3024           1019         523.00                 20240122
+  89941095  Arca Larriega Lucero Yliana                       P860-616            G226-459            P474-593            G138-788            M708-335            
+P474-593                  2723           2060         436.00                 20230822
+P860-616                  2720           1025         631.00                 20200920
+M708-335                  2124           1036         640.00                 20240229
+G138-788                  2325           1029         586.00                 20230626
+P474-593                  2924           1039         540.00                 20241001
+G226-459                  3020           1030        2799.00                 20201009
+G138-788                  2420           2033         428.00                 20200703
+P860-616                  3120           1020         801.00                 20210124
+M708-335                  2521           2022         356.00                 20210809
+P860-616                  2323           2068         391.00                 20230430
+G226-459                  2524           1044         270.00                 20240624
+P860-616                  2823           2038         444.00                 20231003
+P860-616                  3021           1040         554.00                 20201016
+P474-593                  2724           2041         440.00                 20240925
+P860-616                  2920           1009        1316.00                 20201105
+P474-593                  2520           1032         592.00                 20200812
+M708-335                  2921           1023         988.00                 20211125
+G138-788                  2422           2017         377.00                 20200528
+P860-616                  3021           2022         356.00                 20250207
+M708-335                  2521           2068         391.00                 20210624
+P860-616                  2320           2040         352.00                 20210907
+G226-459                  2923           2056         417.00                 20211215
+P474-593                  2824           2001         368.00                 20220814
+M708-335                  2520           2009         368.00                 20200808
+G138-788                  2920           2056         417.00                 20201124
+G226-459                  2922           2006         364.00                 20221207
+G226-459                  2323           2042         398.00                 20230403
+G138-788                  3020           2015         398.00                 20201229
+P860-616                  2123           2062         409.00                 20230115
+P860-616                  2724           2060         436.00                 20240717
+P860-616                  2823           2022         356.00                 20230824
+P474-593                  3024           2012         442.00                 20241116
+  48528209  Zavaleta Coronado Felicita Eloisa                 G262-654            G958-240            G402-859            P156-716            G400-314            
+G402-859                  2421           2018         398.00                 20210121
+P156-716                  3022           2056         417.00                 20221119
+G262-654                  2524           3005         200.00                 20240823
+G400-314                  2122           3007         190.00                 20240305
+G402-859                  2720           2044         374.00                 20200828
+G958-240                  2923           2018         398.00                 20231114
+G262-654                  3222           1002        2310.00                 20221227
+G958-240                  2623           1033         624.00                 20230607
+G400-314                  3022           1036         640.00                 20221113
+P156-716                  2522           3001         214.00                 20220721
+G402-859                  2822           2008         379.00                 20200912
+G262-654                  3124           2032         361.00                 20241119
+G402-859                  2321           1011         567.00                 20210530
+G402-859                  2724           3007         190.00                 20240728
+G402-859                  2423           2062         409.00                 20230520
+G262-654                  2621           2057         429.00                 20210813
+P156-716                  2924           1043        6436.00                 20210420
+G402-859                  2923           1036         640.00                 20231118
+G402-859                  2422           2003         410.00                 20220422
+P156-716                  3120           1024         587.00                 20210730
+G402-859                  3020           2005         414.00                 20211120
+G402-859                  2920           1021        1183.00                 20220713
+  19568447  Vega Soria Henrry                                 M907-605            
+M907-605                  3024           1002        2310.00                 20241024
+M907-605                  2221           2056         417.00                 20210310
+M907-605                  2623           2003         410.00                 20230806
+M907-605                  2621           1033         624.00                 20230412
+  80310768  Minaya Berrocal Heli                              M982-853            G752-478            G893-799            M267-848            M477-146            
+G752-478                  2721           2005         414.00                 20210902
+G752-478                  2823           2061         403.00                 20201118
+M477-146                  3021           1029         586.00                 20211130
+M477-146                  3124           2051         418.00                 20241227
+M267-848                  2222           2039         394.00                 20220316
+M982-853                  2321           1002        2310.00                 20210506
+G752-478                  2320           2053         379.00                 20200406
+M477-146                  2724           1022        2379.00                 20240927
+G893-799                  2224           1010         588.00                 20210909
+M982-853                  2121           3002         250.00                 20210317
+G752-478                  2920           1047         520.00                 20200606
+G752-478                  3024           1039         540.00                 20241007
+G893-799                  2121           3006         220.00                 20210301
+M982-853                  2425           2025         433.00                 20210813
+G893-799                  2325           1029         586.00                 20250427
+G893-799                  2520           2029         369.00                 20231118
+M267-848                  2323           1010         588.00                 20230412
+G893-799                  2921           2014         399.00                 20220125
+G752-478                  3124           1030        2799.00                 20250122
+M477-146                  2124           2011         446.00                 20250310
+M982-853                  3220           2023         436.00                 20210218
+M267-848                  2222           2044         374.00                 20220510
+G752-478                  2620           1002        2310.00                 20200816
+M477-146                  2120           1007        1150.00                 20200816
+G752-478                  2623           2005         414.00                 20230720
+M267-848                  2720           1039         540.00                 20200903
+G893-799                  2323           2001         368.00                 20230405
+M267-848                  2524           2047         359.00                 20240522
+M477-146                  3021           2020         355.00                 20211123
+G893-799                  2722           2031         365.00                 20220713
+  86429854  Moscoso Laura Janet Valentina                     M580-968            P364-899            M510-956            G374-384            M360-947            
+M510-956                  2820           2060         436.00                 20201002
+P364-899                  2821           1007        1150.00                 20211126
+G374-384                  2721           2004         416.00                 20210818
+M510-956                  2325           1038         525.00                 20231226
+M580-968                  3023           1024         587.00                 20210604
+M510-956                  3121           2039         394.00                 20230824
+P364-899                  2721           1033         624.00                 20240131
+G374-384                  3023           1030        2799.00                 20231030
+M580-968                  2124           2050         444.00                 20200304
+G374-384                  2721           2034         371.00                 20210907
+G374-384                  2321           1015         570.00                 20210301
+P364-899                  2421           1015         570.00                 20210627
+G374-384                  2221           1005        2651.00                 20241117
+P364-899                  2123           2006         364.00                 20230627
+G374-384                  2225           2045         420.00                 20220628
+P364-899                  3024           1048         544.00                 20241217
+P364-899                  2624           1025         631.00                 20200328
+P364-899                  2722           3005         200.00                 20220925
+G374-384                  2524           2035         379.00                 20240622
+G374-384                  3021           3003         197.00                 20211230
+G374-384                  2524           1011         567.00                 20240604
+G374-384                  2323           1048         544.00                 20231021
+G374-384                  2224           1018         606.00                 20240122
+  81528434  Epiquen Avila Enrique                             G377-489            M832-314            M837-854            P325-587            G650-450            
+M832-314                  2222           1008        1159.00                 20240919
+G650-450                  2423           1012         631.00                 20230427
+M832-314                  3122           2005         414.00                 20230202
+M832-314                  2221           1003        2439.00                 20210228
+G650-450                  2122           3005         200.00                 20220316
+G377-489                  3020           2050         444.00                 20221126
+G377-489                  2321           1009        1316.00                 20210604
+G650-450                  2220           1039         540.00                 20200425
+P325-587                  2124           1043        6436.00                 20240131
+P325-587                  3220           1043        6436.00                 20201230
+M832-314                  2120           1001        4791.00                 20210914
+G650-450                  2923           1009        1316.00                 20231010
+G377-489                  2322           2070         387.00                 20220412
+G377-489                  2222           2070         387.00                 20220513
+G650-450                  2820           1030        2799.00                 20210907
+G377-489                  2423           1002        2310.00                 20230709
+M837-854                  2324           1036         640.00                 20240410
+M832-314                  2722           2062         409.00                 20221009
+M832-314                  2125           2057         429.00                 20250325
+P325-587                  2623           2029         369.00                 20230627
+G377-489                  2224           2043         424.00                 20220411
+G650-450                  2421           2049         389.00                 20210709
+M837-854                  2221           2019         425.00                 20210220
+P325-587                  2923           2041         440.00                 20230929
+G650-450                  2624           3007         190.00                 20240830
+  73567806  Arca Sanchez Magali Beatriz Iris                  M993-637            P426-388            M666-407            G458-550            
+M993-637                  2623           2068         391.00                 20230626
+M666-407                  3024           1007        1150.00                 20241119
+P426-388                  2821           1044         270.00                 20210826
+P426-388                  2921           2035         379.00                 20211009
+M666-407                  2520           1009        1316.00                 20220316
+M993-637                  2722           3001         214.00                 20220823
+M666-407                  2623           2049         389.00                 20230826
+M666-407                  2121           3001         214.00                 20210208
+M993-637                  3120           1038         525.00                 20201223
+M993-637                  3024           1001        4791.00                 20241228
+P426-388                  3124           2058         361.00                 20241214
+M666-407                  2523           1001        4791.00                 20230803
+P426-388                  3121           3007         190.00                 20220126
+P426-388                  2522           2001         368.00                 20230405
+  12443643  Lee Serrano Rosario                               M421-807            G926-575            P235-315            M483-214            
+P235-315                  3121           2049         389.00                 20211114
+M483-214                  2323           1030        2799.00                 20230330
+P235-315                  2723           2041         440.00                 20230824
+M483-214                  3123           2066         429.00                 20231221
+G926-575                  2420           2031         365.00                 20200606
+G926-575                  2224           2066         429.00                 20240504
+M483-214                  2423           2015         398.00                 20230518
+M421-807                  2922           2019         425.00                 20241214
+M483-214                  3121           1015         570.00                 20220114
+G926-575                  2523           2045         420.00                 20220114
+M483-214                  3221           2069         359.00                 20220125
+P235-315                  2424           3005         200.00                 20240607
+P235-315                  2923           1042         602.00                 20230226
+G926-575                  3022           1033         624.00                 20221219
+P235-315                  2721           2005         414.00                 20200816
+G926-575                  2221           3003         197.00                 20220406
+G926-575                  3122           2040         352.00                 20231021
+  12858682  Zarate Perez Alexander                            M207-572            G520-337            M137-958            
+M207-572                  2721           1024         587.00                 20210731
+M137-958                  2524           2067         429.00                 20211114
+G520-337                  2421           2064         371.00                 20201118
+M207-572                  2123           2046         388.00                 20230129
+M207-572                  2920           1033         624.00                 20201002
+G520-337                  2624           1009        1316.00                 20240730
+M207-572                  2124           2022         356.00                 20201122
+M137-958                  2322           2060         436.00                 20220812
+G520-337                  2421           2025         433.00                 20220812
+G520-337                  2924           2021         404.00                 20241002
+G520-337                  2824           2022         356.00                 20241108
+M137-958                  2423           2003         410.00                 20230429
+M137-958                  3020           2031         365.00                 20240817
+M207-572                  2624           3006         220.00                 20240717
+M207-572                  2523           1026         637.00                 20220713
+  74325123  Tang Moscoso Johana                               P905-539            P770-513            G968-856            G214-608            M348-264            
+G214-608                  2722           1025         631.00                 20220908
+P770-513                  2424           2036         391.00                 20230821
+G968-856                  3223           3001         214.00                 20240305
+P770-513                  2321           2001         368.00                 20210524
+G968-856                  2124           3003         197.00                 20250315
+G968-856                  2223           2003         410.00                 20230324
+P770-513                  3023           1001        4791.00                 20231212
+G968-856                  3121           2045         420.00                 20211213
+G214-608                  2622           1022        2379.00                 20220912
+G214-608                  2322           1004        4337.00                 20220513
+M348-264                  2623           2015         398.00                 20230814
+G214-608                  3020           1021        1183.00                 20220303
+P770-513                  3020           2046         388.00                 20200912
+G214-608                  2123           1026         637.00                 20230208
+M348-264                  2920           1023         988.00                 20240816
+P905-539                  2722           1005        2651.00                 20220829
+M348-264                  2822           3002         250.00                 20220813
+M348-264                  3023           2028         404.00                 20220813
+P905-539                  2521           2051         418.00                 20210520
+P905-539                  3022           2002         354.00                 20221130
+G214-608                  2123           3003         197.00                 20230226
+G968-856                  2523           2024         390.00                 20220507
+P770-513                  2923           1022        2379.00                 20230919
+  80457845  Norabuena Moya Hector                             G616-581            P670-603            G874-915            G410-582            M912-415            
+G874-915                  2324           2060         436.00                 20240425
+P670-603                  2123           2006         364.00                 20230210
+P670-603                  2424           1037         628.00                 20240229
+M912-415                  2821           2011         446.00                 20211029
+P670-603                  2124           3006         220.00                 20240317
+P670-603                  2421           2058         361.00                 20210606
+G616-581                  2723           2054         396.00                 20200828
+G874-915                  2320           1016         663.00                 20220302
+G616-581                  2324           2015         398.00                 20240615
+G874-915                  2622           2049         389.00                 20221226
+P670-603                  2623           1033         624.00                 20230715
+G874-915                  2921           2038         444.00                 20210604
+G410-582                  2421           2051         418.00                 20210412
+G410-582                  2724           2015         398.00                 20241002
+G874-915                  2324           2004         416.00                 20240503
+G874-915                  2325           2035         379.00                 20220331
+M912-415                  2222           1042         602.00                 20220303
+P670-603                  2224           1004        4337.00                 20240405
+M912-415                  2222           2068         391.00                 20220301
+G616-581                  2622           2070         387.00                 20220814
+G410-582                  2424           1023         988.00                 20240528
+P670-603                  2621           1033         624.00                 20210811
+G874-915                  2321           2009         368.00                 20210516
+G410-582                  3020           2011         446.00                 20201018
+G616-581                  3020           2046         388.00                 20201104
+P670-603                  2422           1033         624.00                 20220520
+M912-415                  2624           1032         592.00                 20211123
+  47844324  Vilca Lee Nestor Hugo                             P618-120            G835-830            P131-278            
+G835-830                  2322           2057         429.00                 20220514
+P131-278                  3121           2023         436.00                 20221227
+P618-120                  3123           1038         525.00                 20231226
+P131-278                  2425           2014         399.00                 20231226
+P618-120                  2120           1032         592.00                 20231226
+P618-120                  2721           3006         220.00                 20211008
+G835-830                  2523           1020         801.00                 20230607
+P618-120                  3221           2038         444.00                 20220214
+P131-278                  2921           2010         411.00                 20210914
+G835-830                  2524           1031         567.00                 20240614
+P618-120                  2724           1039         540.00                 20210907
+G835-830                  2322           3005         200.00                 20231112
+P131-278                  3224           2039         394.00                 20230627
+G835-830                  2420           1034         652.00                 20201104
+P618-120                  2422           1002        2310.00                 20200928
+P618-120                  2924           2054         396.00                 20211120
+P131-278                  2823           2008         379.00                 20230825
+  86718074  Escalante Rojas Ines Adria                        G368-136            
+G368-136                  3020           2067         429.00                 20201006
+G368-136                  3124           3006         220.00                 20220306
+G368-136                  2324           2056         417.00                 20240328
+G368-136                  2621           2023         436.00                 20210730
+G368-136                  2425           2025         433.00                 20250418
+G368-136                  2223           2016         414.00                 20230403
+  75945248  Mejia Rodriguez Ines Valentina                    P939-759            G450-448            G721-932            
+G450-448                  2125           1044         270.00                 20250301
+G721-932                  2820           1043        6436.00                 20200908
+P939-759                  2820           1002        2310.00                 20200919
+G450-448                  2821           2068         391.00                 20210909
+G721-932                  2420           1020         801.00                 20200626
+P939-759                  2323           2064         371.00                 20230503
+G450-448                  2422           2016         414.00                 20210408
+P939-759                  2423           2054         396.00                 20230717
+G721-932                  3224           1046         658.00                 20250225
+G721-932                  2224           2042         398.00                 20240418
+G721-932                  2722           1025         631.00                 20220812
+P939-759                  2821           2051         418.00                 20221121
+P939-759                  2724           2003         410.00                 20240717
+  12270502  Cueva Fuentes Cinthia Delia                       G855-340            G266-362            P246-429            G991-678            G250-663            
+G855-340                  2422           2001         368.00                 20210724
+G266-362                  2623           1046         658.00                 20230821
+G250-663                  3222           1013         650.00                 20221226
+G250-663                  2124           2043         424.00                 20240305
+G991-678                  2823           1020         801.00                 20230928
+G991-678                  3022           2052         423.00                 20221114
+G991-678                  2423           2054         396.00                 20201016
+G991-678                  2220           1017         556.00                 20200430
+G855-340                  2321           1042         602.00                 20220412
+G250-663                  3221           2035         379.00                 20220301
+P246-429                  2724           1044         270.00                 20240816
+G855-340                  2323           3001         214.00                 20230826
+G855-340                  2921           2055         436.00                 20211216
+G991-678                  2820           1012         631.00                 20240728
+G250-663                  2323           2023         436.00                 20230610
+G250-663                  2122           2061         403.00                 20220402
+G250-663                  2122           1026         637.00                 20220411
+G266-362                  2622           2060         436.00                 20220628
+G250-663                  2324           2050         444.00                 20230429
+G250-663                  3024           1037         628.00                 20230908
+G855-340                  2720           1010         588.00                 20200928
+G855-340                  2225           2056         417.00                 20250506
+  77367073  Jauregui Del Castillo Victor Ricardo              G974-598            G542-724            M655-400            
+G542-724                  2824           2015         398.00                 20240921
+G542-724                  2822           2027         344.00                 20240516
+M655-400                  2820           3005         200.00                 20250411
+G974-598                  2624           3005         200.00                 20250331
+G974-598                  2920           2062         409.00                 20201023
+M655-400                  2420           1041         617.00                 20200418
+G974-598                  3124           2024         390.00                 20210415
+G542-724                  2722           1046         658.00                 20200828
+M655-400                  2823           3004         182.00                 20231101
+M655-400                  3120           2031         365.00                 20210117
+G542-724                  2224           2006         364.00                 20220301
+G542-724                  3221           1008        1159.00                 20241119
+G974-598                  2120           1029         586.00                 20200304
+M655-400                  3221           2022         356.00                 20200606
+G542-724                  2320           1018         606.00                 20200522
+M655-400                  3024           2037         378.00                 20241009
+M655-400                  3020           2004         416.00                 20241228
+M655-400                  2221           2039         394.00                 20241228
+M655-400                  3022           1041         617.00                 20221125
+M655-400                  2223           1004        4337.00                 20230313
+M655-400                  2621           2036         391.00                 20220126
+G974-598                  2423           2017         377.00                 20230615
+M655-400                  2220           2054         396.00                 20200927
+G974-598                  3122           1032         592.00                 20221121
+G542-724                  2922           1037         628.00                 20221008
+M655-400                  2724           2044         374.00                 20240722
+  13628871  Quiroga Hernandez Silvana Zkenia Maria            P203-441            
+P203-441                  2520           1019         523.00                 20200728
+P203-441                  2721           2025         433.00                 20220307
+P203-441                  2720           2041         440.00                 20240722
+  84186239  Rivero Coronado Hector Alonso Jose                P582-282            G872-544            
+P582-282                  3024           1045         546.00                 20250111
+G872-544                  3123           1047         520.00                 20240130
+G872-544                  2523           1043        6436.00                 20230808
+P582-282                  2622           2004         416.00                 20220729
+P582-282                  2522           1032         592.00                 20240426
+P582-282                  2521           2064         371.00                 20210811
+P582-282                  3222           2041         440.00                 20240413
+P582-282                  3021           2048         365.00                 20211120
+  85501710  Vizcardo Sinche Maribel                           M651-665            P532-434            
+P532-434                  2125           2021         404.00                 20250331
+M651-665                  2921           1035         628.00                 20210902
+M651-665                  2321           2013         378.00                 20210421
+M651-665                  2522           1048         544.00                 20210207
+M651-665                  2325           3004         182.00                 20250322
+M651-665                  3223           2013         378.00                 20240219
+M651-665                  3020           2002         354.00                 20250325
+M651-665                  3021           1048         544.00                 20211231
+  48450395  Ramirez Astete Karina Estefania                   P692-666            G328-654            M317-350            P559-672            
+P559-672                  2820           1008        1159.00                 20240921
+P559-672                  2225           2043         424.00                 20250411
+M317-350                  2523           2061         403.00                 20230710
+P559-672                  2122           2010         411.00                 20210124
+M317-350                  2720           2037         378.00                 20200810
+M317-350                  3120           2036         391.00                 20201110
+G328-654                  2923           2054         396.00                 20211009
+M317-350                  3224           1011         567.00                 20241002
+P559-672                  2720           1030        2799.00                 20200723
+P559-672                  2924           1011         567.00                 20241017
+P692-666                  3124           2053         379.00                 20250105
+G328-654                  2123           2022         356.00                 20200330
+P559-672                  2123           3007         190.00                 20201122
+P559-672                  2321           1020         801.00                 20210612
+M317-350                  2521           1044         270.00                 20220813
+M317-350                  3023           2041         440.00                 20231118
+P692-666                  2524           2021         404.00                 20230313
+G328-654                  2823           2012         442.00                 20210218
+M317-350                  2520           2053         379.00                 20200630
+M317-350                  2221           2001         368.00                 20210308
+G328-654                  2521           1021        1183.00                 20230405
+P559-672                  3222           1012         631.00                 20230122
+M317-350                  2823           1002        2310.00                 20231021
+M317-350                  2125           2026         366.00                 20250203
+  79641328  Tokeshi Guevara Jaime                             G734-120            M512-863            G437-799            
+G734-120                  3023           1038         525.00                 20231231
+G734-120                  2325           1003        2439.00                 20250315
+G734-120                  3024           2037         378.00                 20241220
+G437-799                  2122           1046         658.00                 20230824
+M512-863                  3221           1008        1159.00                 20220331
+G437-799                  2820           2011         446.00                 20201020
+M512-863                  2824           2060         436.00                 20240908
+G734-120                  2520           2070         387.00                 20230803
+G437-799                  3024           1037         628.00                 20241117
+G734-120                  2124           2074         396.00                 20240413
+M512-863                  2120           2056         417.00                 20250221
+G734-120                  2522           1022        2379.00                 20220601
+M512-863                  2524           2050         444.00                 20240503
+  79672079  Contreras Chang Johana Cinthia                    P599-629            P282-128            M852-620            
+P599-629                  2924           2034         371.00                 20240919
+M852-620                  3123           2030         433.00                 20240202
+P282-128                  2121           3001         214.00                 20210415
+M852-620                  2125           1015         570.00                 20221113
+P599-629                  2422           2037         378.00                 20220624
+M852-620                  2124           2035         379.00                 20231010
+P599-629                  2920           2024         390.00                 20201110
+M852-620                  2124           2029         369.00                 20230806
+P599-629                  2920           2061         403.00                 20230115
+P599-629                  2522           2010         411.00                 20240122
+  77763722  Farfan Salazar Margot                             P163-421            P482-255            M277-299            
+P163-421                  2523           2042         398.00                 20250411
+P163-421                  2322           2067         429.00                 20220508
+P163-421                  2225           2014         399.00                 20250410
+P163-421                  2821           2027         344.00                 20211116
+P163-421                  3222           2042         398.00                 20200912
+P163-421                  2220           2021         404.00                 20240306
+M277-299                  2220           2026         366.00                 20200528
+P482-255                  2823           1026         637.00                 20231112
+P482-255                  3024           2063         431.00                 20250122
+M277-299                  2222           1011         567.00                 20220323
+P163-421                  2720           1029         586.00                 20200927
+M277-299                  2323           1043        6436.00                 20230529
+  88854166  Pinto Rojas Juvenal Francisco                     P324-421            G411-657            M257-722            G568-563            P131-555            
+G411-657                  2121           2060         436.00                 20210330
+P131-555                  2720           2073         385.00                 20241129
+M257-722                  2724           2032         361.00                 20221114
+G568-563                  2220           1042         602.00                 20200514
+P324-421                  2721           2065         378.00                 20211213
+G568-563                  3222           2074         396.00                 20221226
+G568-563                  3122           2055         436.00                 20221126
+P324-421                  3121           2073         385.00                 20220124
+M257-722                  3121           1020         801.00                 20220114
+M257-722                  2221           2012         442.00                 20230808
+G568-563                  3224           2035         379.00                 20250216
+P324-421                  2424           3002         250.00                 20240423
+M257-722                  3124           2019         425.00                 20241212
+P324-421                  3220           2008         379.00                 20210101
+G568-563                  2125           2051         418.00                 20250126
+P324-421                  2423           2015         398.00                 20230515
+G411-657                  2320           2056         417.00                 20210530
+P324-421                  2224           2021         404.00                 20240426
+G411-657                  3121           2069         359.00                 20211205
+M257-722                  2422           2053         379.00                 20220624
+M257-722                  2423           2060         436.00                 20230422
+P131-555                  2824           2065         378.00                 20241106
