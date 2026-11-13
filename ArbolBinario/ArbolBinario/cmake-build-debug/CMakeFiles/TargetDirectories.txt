@@ -1,0 +1,3 @@
+C:/Users/jdomi/Downloads/ArbolBinario/ArbolBinario/cmake-build-debug/CMakeFiles/ArbolBinario.dir
+C:/Users/jdomi/Downloads/ArbolBinario/ArbolBinario/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jdomi/Downloads/ArbolBinario/ArbolBinario/cmake-build-debug/CMakeFiles/rebuild_cache.dir
