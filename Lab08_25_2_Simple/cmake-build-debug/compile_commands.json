@@ -1,0 +1,50 @@
+[
+{
+  "directory": "C:/Users/Alan Claros/Desktop/UNIVERSIDAD/Facultad/PROGRA2/Lab08/2025.2/Lab08_25_2_Simple/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab08_25_2_Simple.dir\\main.cpp.obj -c \"C:\\Users\\Alan Claros\\Desktop\\UNIVERSIDAD\\Facultad\\PROGRA2\\Lab08\\2025.2\\Lab08_25_2_Simple\\main.cpp\"",
+  "file": "C:/Users/Alan Claros/Desktop/UNIVERSIDAD/Facultad/PROGRA2/Lab08/2025.2/Lab08_25_2_Simple/main.cpp",
+  "output": "C:/Users/Alan Claros/Desktop/UNIVERSIDAD/Facultad/PROGRA2/Lab08/2025.2/Lab08_25_2_Simple/cmake-build-debug/CMakeFiles/Lab08_25_2_Simple.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Alan Claros/Desktop/UNIVERSIDAD/Facultad/PROGRA2/Lab08/2025.2/Lab08_25_2_Simple/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab08_25_2_Simple.dir\\Biblioteca\\Metrica.cpp.obj -c \"C:\\Users\\Alan Claros\\Desktop\\UNIVERSIDAD\\Facultad\\PROGRA2\\Lab08\\2025.2\\Lab08_25_2_Simple\\Biblioteca\\Metrica.cpp\"",
+  "file": "C:/Users/Alan Claros/Desktop/UNIVERSIDAD/Facultad/PROGRA2/Lab08/2025.2/Lab08_25_2_Simple/Biblioteca/Metrica.cpp",
+  "output": "C:/Users/Alan Claros/Desktop/UNIVERSIDAD/Facultad/PROGRA2/Lab08/2025.2/Lab08_25_2_Simple/cmake-build-debug/CMakeFiles/Lab08_25_2_Simple.dir/Biblioteca/Metrica.cpp.obj"
+},
+{
+  "directory": "C:/Users/Alan Claros/Desktop/UNIVERSIDAD/Facultad/PROGRA2/Lab08/2025.2/Lab08_25_2_Simple/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab08_25_2_Simple.dir\\Biblioteca\\MetricaBasica.cpp.obj -c \"C:\\Users\\Alan Claros\\Desktop\\UNIVERSIDAD\\Facultad\\PROGRA2\\Lab08\\2025.2\\Lab08_25_2_Simple\\Biblioteca\\MetricaBasica.cpp\"",
+  "file": "C:/Users/Alan Claros/Desktop/UNIVERSIDAD/Facultad/PROGRA2/Lab08/2025.2/Lab08_25_2_Simple/Biblioteca/MetricaBasica.cpp",
+  "output": "C:/Users/Alan Claros/Desktop/UNIVERSIDAD/Facultad/PROGRA2/Lab08/2025.2/Lab08_25_2_Simple/cmake-build-debug/CMakeFiles/Lab08_25_2_Simple.dir/Biblioteca/MetricaBasica.cpp.obj"
+},
+{
+  "directory": "C:/Users/Alan Claros/Desktop/UNIVERSIDAD/Facultad/PROGRA2/Lab08/2025.2/Lab08_25_2_Simple/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab08_25_2_Simple.dir\\Biblioteca\\MetricaEngagement.cpp.obj -c \"C:\\Users\\Alan Claros\\Desktop\\UNIVERSIDAD\\Facultad\\PROGRA2\\Lab08\\2025.2\\Lab08_25_2_Simple\\Biblioteca\\MetricaEngagement.cpp\"",
+  "file": "C:/Users/Alan Claros/Desktop/UNIVERSIDAD/Facultad/PROGRA2/Lab08/2025.2/Lab08_25_2_Simple/Biblioteca/MetricaEngagement.cpp",
+  "output": "C:/Users/Alan Claros/Desktop/UNIVERSIDAD/Facultad/PROGRA2/Lab08/2025.2/Lab08_25_2_Simple/cmake-build-debug/CMakeFiles/Lab08_25_2_Simple.dir/Biblioteca/MetricaEngagement.cpp.obj"
+},
+{
+  "directory": "C:/Users/Alan Claros/Desktop/UNIVERSIDAD/Facultad/PROGRA2/Lab08/2025.2/Lab08_25_2_Simple/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab08_25_2_Simple.dir\\Biblioteca\\MetricaCalidad.cpp.obj -c \"C:\\Users\\Alan Claros\\Desktop\\UNIVERSIDAD\\Facultad\\PROGRA2\\Lab08\\2025.2\\Lab08_25_2_Simple\\Biblioteca\\MetricaCalidad.cpp\"",
+  "file": "C:/Users/Alan Claros/Desktop/UNIVERSIDAD/Facultad/PROGRA2/Lab08/2025.2/Lab08_25_2_Simple/Biblioteca/MetricaCalidad.cpp",
+  "output": "C:/Users/Alan Claros/Desktop/UNIVERSIDAD/Facultad/PROGRA2/Lab08/2025.2/Lab08_25_2_Simple/cmake-build-debug/CMakeFiles/Lab08_25_2_Simple.dir/Biblioteca/MetricaCalidad.cpp.obj"
+},
+{
+  "directory": "C:/Users/Alan Claros/Desktop/UNIVERSIDAD/Facultad/PROGRA2/Lab08/2025.2/Lab08_25_2_Simple/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab08_25_2_Simple.dir\\Biblioteca\\Nodo.cpp.obj -c \"C:\\Users\\Alan Claros\\Desktop\\UNIVERSIDAD\\Facultad\\PROGRA2\\Lab08\\2025.2\\Lab08_25_2_Simple\\Biblioteca\\Nodo.cpp\"",
+  "file": "C:/Users/Alan Claros/Desktop/UNIVERSIDAD/Facultad/PROGRA2/Lab08/2025.2/Lab08_25_2_Simple/Biblioteca/Nodo.cpp",
+  "output": "C:/Users/Alan Claros/Desktop/UNIVERSIDAD/Facultad/PROGRA2/Lab08/2025.2/Lab08_25_2_Simple/cmake-build-debug/CMakeFiles/Lab08_25_2_Simple.dir/Biblioteca/Nodo.cpp.obj"
+},
+{
+  "directory": "C:/Users/Alan Claros/Desktop/UNIVERSIDAD/Facultad/PROGRA2/Lab08/2025.2/Lab08_25_2_Simple/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab08_25_2_Simple.dir\\Biblioteca\\Lista.cpp.obj -c \"C:\\Users\\Alan Claros\\Desktop\\UNIVERSIDAD\\Facultad\\PROGRA2\\Lab08\\2025.2\\Lab08_25_2_Simple\\Biblioteca\\Lista.cpp\"",
+  "file": "C:/Users/Alan Claros/Desktop/UNIVERSIDAD/Facultad/PROGRA2/Lab08/2025.2/Lab08_25_2_Simple/Biblioteca/Lista.cpp",
+  "output": "C:/Users/Alan Claros/Desktop/UNIVERSIDAD/Facultad/PROGRA2/Lab08/2025.2/Lab08_25_2_Simple/cmake-build-debug/CMakeFiles/Lab08_25_2_Simple.dir/Biblioteca/Lista.cpp.obj"
+},
+{
+  "directory": "C:/Users/Alan Claros/Desktop/UNIVERSIDAD/Facultad/PROGRA2/Lab08/2025.2/Lab08_25_2_Simple/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab08_25_2_Simple.dir\\Biblioteca\\AdministrarMetricas.cpp.obj -c \"C:\\Users\\Alan Claros\\Desktop\\UNIVERSIDAD\\Facultad\\PROGRA2\\Lab08\\2025.2\\Lab08_25_2_Simple\\Biblioteca\\AdministrarMetricas.cpp\"",
+  "file": "C:/Users/Alan Claros/Desktop/UNIVERSIDAD/Facultad/PROGRA2/Lab08/2025.2/Lab08_25_2_Simple/Biblioteca/AdministrarMetricas.cpp",
+  "output": "C:/Users/Alan Claros/Desktop/UNIVERSIDAD/Facultad/PROGRA2/Lab08/2025.2/Lab08_25_2_Simple/cmake-build-debug/CMakeFiles/Lab08_25_2_Simple.dir/Biblioteca/AdministrarMetricas.cpp.obj"
+}
+]
