@@ -1,0 +1,84 @@
+========== DISPATCHED PACKAGES ===========
+
+PACKAGE TYPE: STANDARD
+Package: P001
+Distance: 90.00
+Urgent: Yes
+Total weight: 2.80 kg
+Total value: S/ 3620.00
+Shipping cost: S/ 28.10
+Status: DISPATCHED
+
+Products:
+Code    Name            Weight       Value
+PR002   Mouse             0.30      120.00
+PR001   Laptop            2.50     3500.00
+
+------------------------------------------
+
+PACKAGE TYPE: REFRIGERATED
+Package: P002
+Distance: 150.00
+Required temperature: 4.00 C
+Total weight: 4.50 kg
+Total value: S/ 295.00
+Shipping cost: S/ 51.50
+Status: DISPATCHED
+
+Products:
+Code    Name            Weight       Value
+PR005   Milk              1.00       25.00
+PR004   Cheese            1.50       90.00
+PR003   Salmon            2.00      180.00
+
+------------------------------------------
+
+PACKAGE TYPE: STANDARD
+Package: P003
+Distance: 200.00
+Urgent: No
+Total weight: 5.00 kg
+Total value: S/ 850.00
+Shipping cost: S/ 30.00
+Status: DISPATCHED
+
+Products:
+Code    Name            Weight       Value
+PR006   Monitor           5.00      850.00
+
+------------------------------------------
+
+PACKAGE TYPE: REFRIGERATED
+Package: P004
+Distance: 80.00
+Required temperature: -5.00 C
+Total weight: 4.50 kg
+Total value: S/ 165.00
+Shipping cost: S/ 59.40
+Status: DISPATCHED
+
+Products:
+Code    Name            Weight       Value
+PR008   FrozenMeat        3.00      120.00
+PR007   IceCream          1.50       45.00
+
+------------------------------------------
+
+PACKAGE TYPE: STANDARD
+Package: P005
+Distance: 350.00
+Urgent: Yes
+Total weight: 1.50 kg
+Total value: S/ 550.00
+Shipping cost: S/ 38.50
+Status: DISPATCHED
+
+Products:
+Code    Name            Weight       Value
+PR011   Webcam            0.30      180.00
+PR010   Headset           0.40      220.00
+PR009   Keyboard          0.80      150.00
+
+------------------------------------------
+
+TOTAL DISPATCHED PACKAGES: 5

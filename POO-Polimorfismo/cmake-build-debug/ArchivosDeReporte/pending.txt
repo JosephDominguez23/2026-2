@@ -1,0 +1,19 @@
+============ PENDING PACKAGES ============
+
+PACKAGE TYPE: REFRIGERATED
+Package: P006
+Distance: 120.00
+Required temperature: 12.00 C
+Total weight: 1.50 kg
+Total value: S/ 55.00
+Shipping cost: S/ 28.10
+Status: PENDING
+
+Products:
+Code    Name            Weight       Value
+PR013   Butter            0.50       25.00
+PR012   Yogurt            1.00       30.00
+
+------------------------------------------
+
+TOTAL PENDING PACKAGES: 1
